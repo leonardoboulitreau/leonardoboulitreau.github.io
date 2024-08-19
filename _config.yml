@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Leonardo B. de M. M. Marques"
+title                    : "Leo's Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Leonardo Boulitreau de M. M. Marques"
+name                     : "Home"
 description              : "An amazing website."
 url                      : "https://leonardoboulitreau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/profile.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Leonardo" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Leo's Website" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leonardo Boulitreau"
+  name             : "Leonardo Boulitreau de M. M. Marques"
   avatar           : "assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Audio Researcher @CPqD"
   location         : "São Paulo, Brazil"
