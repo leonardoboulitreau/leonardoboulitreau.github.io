@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "me"
-    url: /posts/
+    url: /about/
   - title: "publications"
     url: /publications/
   - title: "crafts"
-    url: /posts/
+    url: /publications/
   - title: "thoughts"
-    url: /posts/
+    url: /publications/
   - title: "sounds"
-    url: /posts/
+    url: /publications/
