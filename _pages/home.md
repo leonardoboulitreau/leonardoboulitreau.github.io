@@ -1,14 +1,9 @@
 ---
-permalink: /
-title: "About"
 layout: single
-excerpt: "Hello, welcome to my page!"
+title: "About"
+permalink: /about/
 author_profile: true
-toc: false
-redirect_from:
-  - /home
-  - /home.html
+
 ---
 
-## Hello,
-Welcome to my page!
+Hello!
