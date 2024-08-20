@@ -8,8 +8,6 @@ toc: false
 redirect_from:
   - /home
   - /home.html
-  - /about/
-  - /about.html
 ---
 
 ## Hello,
