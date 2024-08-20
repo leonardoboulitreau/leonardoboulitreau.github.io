@@ -127,7 +127,7 @@ author:
       url: "https://github.com/leonardoboulitreau"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/leonardo-boulitreau"
+      url: "https://www.linkedin.com/in/leonardoboulitreau/"
     - label: "Kaggle"
       icon: "fa-brands fa-kaggle"
       url: "https://www.kaggle.com/leonardoboulitreau"
@@ -242,7 +242,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
