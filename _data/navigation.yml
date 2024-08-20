@@ -4,7 +4,9 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Projects"
+  - title: "Crafts"
     url: /about/
-  - title: "Posts"
+  - title: "Thoughts"
+    url: /about/
+  - title: "Sounds"
     url: /about/
