@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-{% include base_path %}
-
 I'm Leo!
 
 ## Interests
