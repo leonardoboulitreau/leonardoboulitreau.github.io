@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Leonardo Boulitreau"
   avatar           : "assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Audio Researcher @CPqD"
+  bio              : "Audio Researcher <a href="https://www.cpqd.com.br/en/">@CPqD</a>"
   location         : "São Paulo, Brazil"
   email            : 
   links:
