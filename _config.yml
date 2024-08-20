@@ -21,7 +21,7 @@ title                    : "Leo's Website"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Leonardo Boulitreau"
-description              : "An amazing website."
+description              : "Machines that speak, sing, play, and hear."
 url                      : "https://leonardoboulitreau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leonardoboulitreau/leonardoboulitreau.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
