@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "About me"
+title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello
+## I'm Leo! I make machines that speak, sing, play, and hear.
 
-## Research Interests
-Audio AI
+I am an Audio AI Research Engineer specializing in expressive text-to-speech systems. Currently, I am working as a Junior Speech Researcher with affective customer-oriented expressive machines at CPqD.
