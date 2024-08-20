@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
+  - title: "essence"
     url: /about/
-  - title: "Publications"
+  - title: "publications"
     url: /publications/
-  - title: "Crafts"
+  - title: "crafts"
     url: /about/
-  - title: "Thoughts"
+  - title: "thoughts"
     url: /about/
-  - title: "Sounds"
+  - title: "sounds"
     url: /about/
