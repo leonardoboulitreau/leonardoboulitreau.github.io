@@ -9,6 +9,5 @@ redirect_from:
 ---
 Hello
 
-
 ## Research Interests
-Bring AI techniques to transportation engineering and urban planning.
+Audio AI
