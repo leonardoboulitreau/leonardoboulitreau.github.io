@@ -69,7 +69,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
 search                   : true # true, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : true # true, false (default)
@@ -119,12 +119,27 @@ author:
   location         : "São Paulo, Brazil"
   email            : 
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/LeoBoulitreau"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=Dms6XTsAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leonardoboulitreau"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/leonardo-boulitreau"
+    - label: "Kaggle"
+      icon: "fa-brands fa-kaggle"
+      url: "https://www.kaggle.com/leonardoboulitreau"
+    - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Leonardo-Marques-29"
+    - label: "OrcID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-8821-4972"
+    - label: "X"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/LeoBoulitreau"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:leonardoboulitreau@gmail.com"
