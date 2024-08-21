@@ -6,9 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. "Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments", GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. 
-
-<button onclick="copyBibTex()">Copy BibTex</button>
+Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. "Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments", GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. <button onclick="copyBibTex()">Copy BibTex</button>
 
 <script>
 function copyBibTex() {
