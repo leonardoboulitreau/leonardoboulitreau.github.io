@@ -6,14 +6,28 @@ author_profile: true
 classes: wide
 ---
 
-Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. "Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments", GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. [Click to Copy BibTex](javascript:void(0)){:onclick="navigator.clipboard.writeText('@inproceedings{
+Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. "Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments", GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. 
+
+<button onclick="copyBibTex()">Copy BibTex</button>
+
+<script>
+function copyBibTex() {
+  const bibtex = `@inproceedings{
 sanchez2024benchmarking,
 title={Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments},
 author={JOHSAC ISBAC GOMEZ SANCHEZ and Kevin Inofuente-Colque and Leonardo Boulitreau de Menezes Martins Marques and Paula Dornhofer Paro Costa and Rodolfo Luis Tonoli},
 booktitle={GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024},
 year={2024},
 url={https://openreview.net/forum?id=m6FDIP5o4M}
-}')" style="cursor: pointer;"}
+}`;
+  navigator.clipboard.writeText(bibtex).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Failed to copy text: ", err);
+  });
+}
+</script>
+
 
 Rodolfo Luis Tonoli, Paula Dornhofer Paro Costa, **Leonardo Boulitreau de Menezes Martins Marques**, Lucas Hideki Ueda. “Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness”, GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. [Click to Copy BibTex](javascript:void(0)){:onclick="navigator.clipboard.writeText('@inproceedings{
 tonoli2024gesture,
