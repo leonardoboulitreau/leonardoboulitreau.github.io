@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
+(2024) "[Exploring Synthetic Data for Cross-Speaker Style Transfer in Style Representation based TTS](https://leonardoboulitreau.github.io/publications/)". Lucas H. Ueda, **Leonardo B. de M. M. Marques**, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. SynData4GenAI. Interspeech 2024 Satellite. <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
+
+<script>
+function copyBibTexExploring2024() {
+  const bibtex = `Not yet available`;
+  navigator.clipboard.writeText(bibtex).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Failed to copy text: ", err);
+  });
+}
+</script>
 
 (2024) "[Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments](https://openreview.net/pdf?id=m6FDIP5o4M)". Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. <button onclick="copyBibTexBenchmarking()">Copy BibTex</button>
 
@@ -95,6 +107,22 @@ address="Cham",
 pages="253--267",
 abstract="In this article, we propose an aggregation of denoising diffusion probabilistic models (DDPMs) onto an end-to-end text-to-speech system to learn a distribution of reference speaking styles in an unsupervised manner. By applying a few steps of a forward noising process to an embedding extracted from a reference mel spectrogram, we make profit of its information to reduce the diffusion chain and reconstruct an improved style embedding with only a few reverse steps, performing style transfer. Additionally, a proposed combination of spectrogram reconstruction and denoising losses allows for conditioning of the acoustic model on the synthesized style embeddings. A subjective perceptual evaluation is conducted to evaluate naturalness and style transfer capability of the proposed approach. The results show a 5-point increment on the mean of naturalness ratings and a preference of the raters (43{\%}) of our proposed approach over state-of-the-art models (29{\%}) in the style transfer scenario.",
 isbn="978-3-031-21686-2"
+}`;
+  navigator.clipboard.writeText(bibtex).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Failed to copy text: ", err);
+  });
+}
+</script>
+
+(2022) "[Transferência de Estilo para Síntese de Fala Expressiva](https://www.dca.fee.unicamp.br/portugues/pesquisa/seminarios/2022/manuscritos/papers/18.pdf)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda , Paula D. P. Costa. XIV Encontro de Alunos e Docentes do DCA/FEEC/UNICAMP (EADCA). <button onclick="copyBibTexTransferencia()">Copy BibTex</button>
+
+<script>
+function copyBibTexTransferencia() {
+  const bibtex = `@article{detransferencia,
+  title={Transfer{\^e}ncia de Estilo para S{\'\i}ntese de Fala Expressiva},
+  author={de MM Marques, Leonardo B and Ueda, Lucas H and Costa, Paula DP}
 }`;
   navigator.clipboard.writeText(bibtex).then(() => {
     alert("BibTeX copied to clipboard!");
