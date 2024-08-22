@@ -8,6 +8,12 @@ classes: wide
 
 "[Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments](https://openreview.net/pdf?id=m6FDIP5o4M)". Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. <button onclick="copyBibTex()">Copy BibTex</button>
 
+<style>
+  button {
+    color: blue
+  }  
+</style>
+
 <script>
 function copyBibTex() {
   const bibtex = `@inproceedings{
