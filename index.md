@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: singlehome
 title: "Hi there!"
 excerpt: "About me"
 author_profile: true
