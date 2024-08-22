@@ -10,7 +10,7 @@ classes: wide
 
 <style>
   button {
-    color: blue
+    fonte-size: 12px
   }  
 </style>
 
