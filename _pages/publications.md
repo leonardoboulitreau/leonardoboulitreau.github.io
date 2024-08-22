@@ -52,7 +52,7 @@ url={https://openreview.net/forum?id=Iso5lbByDI}
 }
 </script>
 
-(2023) "[Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://openreview.net/pdf?id=S9Efb3MoiZ)". Rodolfo Luis Tonoli, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda, Paula Dornhofer Paro Costa. Genea Challenge 2023. Companion Publication of the 2023 International Conference on Multimodal Interaction (ICMI’23 Companion). Association for Computing Machinery. <button onclick="copyBibTexGesture2023()">Copy BibTex</button>
+(2023) "[Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://openreview.net/pdf?id=S9Efb3MoiZ)". Rodolfo Luis Tonoli,**Leonardo Boulitreau de Menezes Martins Marques**, Lucas Hideki Ueda, Paula Dornhofer Paro Costa. Genea Challenge 2023. Companion Publication of the 2023 International Conference on Multimodal Interaction (ICMI’23 Companion). Association for Computing Machinery. <button onclick="copyBibTexGesture2023()">Copy BibTex</button>
 
 <script>
 function copyBibTexGesture2023() {
