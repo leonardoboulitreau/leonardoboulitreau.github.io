@@ -11,7 +11,7 @@ You can call me Leo!
 I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher @CPqD working with Automatic Speech Recognition (ASR) and a Master’s candidate @UNICAMP.
 
 ## Interests
-My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering. Specifically, I work with text-to-speech systems, automatic speech recognition, voice and singing voice conversion, speech and music classification, music generation and neural audio effects. I am also a hobbyist music producer, composer, and multi‑instrumentalist. In addition, recently I have also focused on some Kaggle competitions.
+My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering. Specifically, I work with text-to-speech (TTS) systems, automatic speech recognition, voice and singing voice conversion, speech and music classification, music generation and neural audio effects. I am also a hobbyist music producer, composer, and multi‑instrumentalist. In addition, recently I have also focused on some Kaggle competitions.
 
 ## Skills
   * **Audio Frameworks**: Coqui, SpeechBrain, ESPNET, NeMo
@@ -32,7 +32,7 @@ My research interests are aimed at developing audio‑based human‑machine inte
 pipelines on the ONNX version of the FastPitch TTS model.
   * Conducted several subjective perceptual experiments to evaluate synthetic audio quality and naturalness.
     
-**(2020-2021) - Lab Internt @LPS**
+**(2020-2021) - Lab Intern @LPS**
   * Enhanced lab automation by designing neural speech commands recognition systems.
   * Encapsulated the ASR system in a local private LoRa network for IoT purposes.
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
