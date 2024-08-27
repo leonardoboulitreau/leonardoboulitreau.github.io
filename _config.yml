@@ -158,19 +158,19 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/leonardoboulitreau"
+      #url: "https://github.com/leonardoboulitreau"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/leonardoboulitreau/"
+      #url: "https://www.linkedin.com/in/leonardoboulitreau/"
     - label: "Kaggle"
       icon: "fa-brands fa-kaggle"
-      url: "https://www.kaggle.com/leonardoboulitreau"
+      #url: "https://www.kaggle.com/leonardoboulitreau"
     - label: "ResearchGate"
       icon: "fa-brands fa-researchgate"
-      url: "https://www.researchgate.net/profile/Leonardo-Marques-29"
+      #url: "https://www.researchgate.net/profile/Leonardo-Marques-29"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/LeoBoulitreau"
+      #url: "https://x.com/LeoBoulitreau"
 
 # Reading Files
 include:
