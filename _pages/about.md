@@ -14,10 +14,11 @@ I am a researcher in the intersection of Artificial Intelligence and Audio, with
 My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering. Specifically, I work with text-to-speech (TTS) systems, automatic speech recognition, voice and singing voice conversion, speech and music classification, music generation and neural audio effects. I am also a hobbyist music producer, composer, and multi‑instrumentalist. In addition, recently I have also focused on some Kaggle competitions.
 
 ## Skills
-  * **Audio Frameworks**: Coqui, SpeechBrain, ESPNET, NeMo
-  * **Deep Learning**: PyTorch, Tensorflow, HuggingFace, ONNX, Gradio
+  * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit Learning, HuggingFace, ONNX, Gradio
+  * **Audio Frameworks**: Amphion, Coqui, SpeechBrain, ESPNET, NeMo
   * **Tools**: Docker, Git
   * **Programming**: Python, C, C++, MATLAB, LaTeX
+  * **Cloud**: AWS, GCP
   * **Languages**: Portuguese, English, French
   * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
 
