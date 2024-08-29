@@ -1,7 +1,7 @@
 ---
-title: "Splash Page"
+title: "crafts"
 layout: splash
-permalink: /splash-page/
+permalink: /crafts/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
