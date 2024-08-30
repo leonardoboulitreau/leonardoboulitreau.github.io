@@ -13,22 +13,25 @@ intro:
 feature_row:
   - image_path: assets/images/aitmospheric.png
     alt: "aitmospheric"
-    title: "aitmospheric"
+    title: "a i t m o s p h e r i c"
     excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Project Presented at The 1st Sound of AI Hackathon."
     url: https://aitmospheric.vercel.app/
-    btn_label: "GitHub"
+    btn_label: "Live Demo"
     btn_class: "btn--primary"
   - image_path: /assets/images/ttsobjective.png
     alt: "TTS objective metrics"
     title: "TTS Objective Metrics"
     excerpt: "A compilation of the objective metrics used in several text-to-speech (TTS) papers."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: https://github.com/AI-Unicamp/TTS-Objective-Metrics
+    btn_label: "Repository"
     btn_class: "btn--primary"
-  - image_path: assets/images/aitmospheric.png
-    alt: "aitmospheric"
-    title: "aitmospheric"
-    excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Project Presented at The 1st Sound of AI Hackathon."
+  - image_path: /assets/images/ttsobjective.png
+    alt: "Cross-Speaker Style Transfer"
+    title: "Cross-Speaker Style Transfer"
+    excerpt: "Forked from Coqui-AI (🐸TTS ) and used to research about expressive TTS in our AI-Unicamp-CPQD group."
+    url: https://github.com/AI-Unicamp/TTS
+    btn_label: "Repository"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
