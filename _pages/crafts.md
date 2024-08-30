@@ -25,10 +25,10 @@ feature_row:
     url: https://github.com/AI-Unicamp/TTS-Objective-Metrics
     btn_label: "Repository"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ttsobjective.png
+  - image_path: /assets/images/csst.png
     alt: "Cross-Speaker Style Transfer"
     title: "Cross-Speaker Style Transfer"
-    excerpt: "Forked from Coqui-AI (🐸TTS ) and used to research about expressive TTS in our AI-Unicamp-CPQD group."
+    excerpt: "A fork from Coqui-AI (🐸TTS) used to research about expressive TTS in our Unicamp-CPQD group."
     url: https://github.com/AI-Unicamp/TTS
     btn_label: "Repository"
     btn_class: "btn--primary"
