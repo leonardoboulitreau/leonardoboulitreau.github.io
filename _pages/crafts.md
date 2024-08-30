@@ -15,7 +15,7 @@ feature_row:
     alt: "aitmospheric"
     title: "aitmospheric"
     excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Project Presented at The 1st Sound of AI Hackathon."
-    url: "https://aitmospheric.vercel.app/"
+    url: https://aitmospheric.vercel.app/
     btn_label: "GitHub"
     btn_class: "btn--primary"
   - image_path: /assets/images/ttsobjective.png
