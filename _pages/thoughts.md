@@ -7,25 +7,5 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/cover-thoughts.jpg
-excerpt: "some thoughts on things."
-feature_row:
-  - image_path: assets/images/aitmospheric.png
-    alt: "aitmospheric"
-    title: "aitmospheric"
-    excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Project Presented at The 1st Sound of AI Hackathon."
-  - image_path: /assets/images/ttsobjective.png
-    alt: "TTS objective metrics"
-    title: "TTS Objective Metrics"
-    excerpt: "A compilation of the objective metrics used in several text-to-speech (TTS) papers."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/aitmospheric.png
-    alt: "aitmospheric"
-    title: "aitmospheric"
-    excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Project Presented at The 1st Sound of AI Hackathon."
+excerpt: "rambling on..."
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
