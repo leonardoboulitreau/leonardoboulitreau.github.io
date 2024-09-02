@@ -1,17 +1,12 @@
 ---
 permalink: /
 layout: singlehome
-title: "Hello!"
-excerpt: "About me"
+title: "I'm Leo!"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+### I make machines that speak, sing, play, and hear.
 
-**You can call me Leo! I make machines that speak, sing, play, and hear.**
-
-I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher @CPqD working with Automatic Speech Recognition (ASR) and a Master’s candidate @UNICAMP.
+I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher @CPqD working with Automatic Speech Recognition (ASR) and a Master’s candidate @UNICAMP. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
 My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering in topics such as: 
@@ -21,8 +16,6 @@ My research interests are aimed at developing audio‑based human‑machine inte
 * Voice Conversion (VC), Singing Voice Conversion (SVC)
 * Speech Emotion, Age and Gender Recognition
 * Music Generation/Classification, Neural Audio Effects
-
-I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Skills
   * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
