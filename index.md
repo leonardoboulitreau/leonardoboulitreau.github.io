@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### I make machines that speak, sing, play, and hear.
 
-I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher @CPqD working with Automatic Speech Recognition (ASR) and speech age classification. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
+I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/) working with Automatic Speech Recognition (ASR) and speech age classification. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
 My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering in topics such as: 
