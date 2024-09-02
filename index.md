@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### I make machines that speak, sing, play, and hear.
 
-I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher @CPqD working with Automatic Speech Recognition (ASR) and a Master’s candidate @UNICAMP. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
+I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher @CPqD working with Automatic Speech Recognition (ASR) and speech age classification. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
 My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering in topics such as: 
@@ -43,8 +43,9 @@ pipelines on the ONNX version of the FastPitch TTS model.
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
     
 ## Education
-(2024) M.Sc. Computer Engineering @UNICAMP
+(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/) (#2 LATAM)
 
-(2021) B.Sc. Electronic Engineering @UFPB
+(2019-2020) Excellence Exchange Student [@Télécom Paris](https://www.telecom-paris.fr/)
 
-(2019) Excellence Exchange Student @Télécom Paris
+(2017-2021) B.Sc. Electronic Engineering [@UFPB](https://www.ufpb.br/)
+
