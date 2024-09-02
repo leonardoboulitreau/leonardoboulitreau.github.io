@@ -10,3 +10,5 @@ main:
     url: /thoughts/
   - title: "sounds"
     url: /sounds/
+  - title: "cv"
+    url: /assets/images/CV-Leonardo.pdf
