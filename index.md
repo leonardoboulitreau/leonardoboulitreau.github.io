@@ -5,7 +5,7 @@ title: "I'm Leo!"
 author_profile: true
 ---
 
-**Welcome to my 💿 (a digital media where i store my audio(+AI) and portfolio content)!**
+**Welcome to my 💿 (digital media where i store my audio(+AI) and portfolio content)!**
 
 ### I make machines that speak, sing, play, and hear.
 
