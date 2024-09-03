@@ -4,9 +4,12 @@ layout: singlehome
 title: "I'm Leo!"
 author_profile: true
 ---
+
+**Welcome to my 💿 (a digital media where i store my audio(+AI) and portfolio content)!**.
+
 ### I make machines that speak, sing, play, and hear.
 
-**Welcome to my 💿, a digital media where i store my audio(+AI) and portfolio content**. I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/) working with Automatic Speech Recognition (ASR) and speech age classification. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
+ I am a researcher in the intersection of Artificial Intelligence and Audio, with a solid background in signal processing. Currently, I am a Junior Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/) working with Automatic Speech Recognition (ASR) and speech age classification. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
 My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering in topics such as: 
