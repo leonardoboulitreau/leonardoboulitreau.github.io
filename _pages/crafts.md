@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/cover-crafts.png
 excerpt: "some projects i've built."
 intro: 
-  - excerpt: '"Stop thinking about (art) works as objects and start thinking about them as triggers for experiences. What makes a work (of art) good for you is not something that s already inside it but something that happens inside you." - Brian Eno'
+  - excerpt: '"Stop thinking about (art) works as objects and start thinking about them as triggers for experiences. What makes a work (of art) good for you is not something that s already inside it but something that happens inside you."\- Brian Eno'
 feature_row:
   - image_path: assets/images/aitmospheric.png
     alt: "aitmospheric"
