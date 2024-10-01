@@ -9,7 +9,12 @@ classes: wide
 
 <script>
 function copyBibTexExploring2024() {
-  const bibtex = `Not yet available`;
+  const bibtex = `@article{ueda2024exploring,
+  title={Exploring synthetic data for cross-speaker style transfer in style representation based TTS},
+  author={Ueda, Lucas H and Marques, Leonardo B and Sim{\~o}es, Fl{\'a}vio O and Neto, M{\'a}rio U and Runstein, Fernando and B{\'o}, Bianca Dal and Costa, Paula DP},
+  journal={arXiv preprint arXiv:2409.17364},
+  year={2024}
+  }`;
   navigator.clipboard.writeText(bibtex).then(() => {
     alert("BibTeX copied to clipboard!");
   }).catch(err => {
