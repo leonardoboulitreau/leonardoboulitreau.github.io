@@ -20,9 +20,8 @@ My research interests are aimed at developing audio‑based human‑machine inte
 ## Skills
   * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
   * **Audio Frameworks**: Amphion, Coqui, SpeechBrain, ESPNET, NeMo
-  * **Tools**: Docker, Git
+  * **Tools**: Docker, Git, Cloud (AWS, GCP)
   * **Programming**: Python, C, C++, MATLAB, LaTeX
-  * **Cloud**: AWS, GCP
   * **Languages**: Portuguese, English, French
   * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
 
