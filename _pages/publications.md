@@ -18,7 +18,7 @@ function copyBibTexExploring2024() {
 }
 </script>
 
-(2024) "[Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments](https://openreview.net/pdf?id=m6FDIP5o4M)". Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. <button onclick="copyBibTexBenchmarking()">Copy BibTex</button>
+(2024) "[**Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments**](https://openreview.net/pdf?id=m6FDIP5o4M)". Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, **Leonardo Boulitreau de Menezes Martins Marques**, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. <button onclick="copyBibTexBenchmarking()">Copy BibTex</button>
 
 <style>
   button {
@@ -44,7 +44,7 @@ url={https://openreview.net/forum?id=m6FDIP5o4M}
 }
 </script>
 
-(2024) "[Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness](https://openreview.net/pdf?id=Iso5lbByDI)". Rodolfo Luis Tonoli, Paula Dornhofer Paro Costa, **Leonardo Boulitreau de Menezes Martins Marques**, Lucas Hideki Ueda. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024.  <button onclick="copyBibTexGesture()">Copy BibTex</button>
+(2024) "[**Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness**](https://openreview.net/pdf?id=Iso5lbByDI)". Rodolfo Luis Tonoli, Paula Dornhofer Paro Costa, **Leonardo Boulitreau de Menezes Martins Marques**, Lucas Hideki Ueda. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024.  <button onclick="copyBibTexGesture()">Copy BibTex</button>
 
 <script>
 function copyBibTexGesture() {
@@ -64,7 +64,7 @@ url={https://openreview.net/forum?id=Iso5lbByDI}
 }
 </script>
 
-(2023) "[Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://openreview.net/pdf?id=S9Efb3MoiZ)". Rodolfo Luis Tonoli,**Leonardo Boulitreau de Menezes Martins Marques**, Lucas Hideki Ueda, Paula Dornhofer Paro Costa. Genea Challenge 2023. Companion Publication of the 2023 International Conference on Multimodal Interaction (ICMI’23 Companion). Association for Computing Machinery. <button onclick="copyBibTexGesture2023()">Copy BibTex</button>
+(2023) "[**Gesture Generation with Diffusion Models Aided by Speech Activity Information**](https://openreview.net/pdf?id=S9Efb3MoiZ)". Rodolfo Luis Tonoli,**Leonardo Boulitreau de Menezes Martins Marques**, Lucas Hideki Ueda, Paula Dornhofer Paro Costa. Genea Challenge 2023. Companion Publication of the 2023 International Conference on Multimodal Interaction (ICMI’23 Companion). Association for Computing Machinery. <button onclick="copyBibTexGesture2023()">Copy BibTex</button>
 
 <script>
 function copyBibTexGesture2023() {
@@ -84,7 +84,7 @@ url={https://openreview.net/forum?id=S9Efb3MoiZ}
 }
 </script>
 
-(2022) "[Diffusion-Based Approach to Style Modeling in Expressive TTS](https://www.researchgate.net/profile/Flavio-Simoes-3/publication/365495086_Diffusion-Based_Approach_to_Style_Modeling_in_Expressive_TTS/links/63b480fca03100368a4e0f1a/Diffusion-Based-Approach-to-Style-Modeling-in-Expressive-TTS.pdf)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. Intelligent Systems: 11th Brazilian Conference (BRACIS 2022), Campinas, Brazil, November 28–December 1, 2022, Proceedings, Part I. Springer, 2022, pp. 253–267. <button onclick="copyBibTexDiffusion()">Copy BibTex</button>
+(2022) "[**Diffusion-Based Approach to Style Modeling in Expressive TTS**](https://www.researchgate.net/profile/Flavio-Simoes-3/publication/365495086_Diffusion-Based_Approach_to_Style_Modeling_in_Expressive_TTS/links/63b480fca03100368a4e0f1a/Diffusion-Based-Approach-to-Style-Modeling-in-Expressive-TTS.pdf)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. Intelligent Systems: 11th Brazilian Conference (BRACIS 2022), Campinas, Brazil, November 28–December 1, 2022, Proceedings, Part I. Springer, 2022, pp. 253–267. <button onclick="copyBibTexDiffusion()">Copy BibTex</button>
 
 <script>
 function copyBibTexDiffusion() {
@@ -116,7 +116,7 @@ isbn="978-3-031-21686-2"
 }
 </script>
 
-(2022) "[Transferência de Estilo para Síntese de Fala Expressiva](https://www.dca.fee.unicamp.br/portugues/pesquisa/seminarios/2022/manuscritos/papers/18.pdf)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda , Paula D. P. Costa. XIV Encontro de Alunos e Docentes do DCA/FEEC/UNICAMP (EADCA). <button onclick="copyBibTexTransferencia()">Copy BibTex</button>
+(2022) "[**Transferência de Estilo para Síntese de Fala Expressiva**](https://www.dca.fee.unicamp.br/portugues/pesquisa/seminarios/2022/manuscritos/papers/18.pdf)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda , Paula D. P. Costa. XIV Encontro de Alunos e Docentes do DCA/FEEC/UNICAMP (EADCA). <button onclick="copyBibTexTransferencia()">Copy BibTex</button>
 
 <script>
 function copyBibTexTransferencia() {
@@ -132,7 +132,7 @@ function copyBibTexTransferencia() {
 }
 </script>
 
-(2020) "[Cooperative Spectrum Sensing Based on Skewness Statistical Tests](https://www.researchgate.net/profile/Leonardo-Marques-29/publication/349854796_Cooperative_Spectrum_Sensing_Based_on_Skewness_Statistical_Tests/links/6358b8028d4484154a36e19f/Cooperative-Spectrum-Sensing-Based-on-Skewness-Statistical-Tests.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)". **L Marques**, F Carvalho. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT2020). <button onclick="copyBibTexCooperative()">Copy BibTex</button>
+(2020) "[**Cooperative Spectrum Sensing Based on Skewness Statistical Tests**](https://www.researchgate.net/profile/Leonardo-Marques-29/publication/349854796_Cooperative_Spectrum_Sensing_Based_on_Skewness_Statistical_Tests/links/6358b8028d4484154a36e19f/Cooperative-Spectrum-Sensing-Based-on-Skewness-Statistical-Tests.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)". **L Marques**, F Carvalho. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT2020). <button onclick="copyBibTexCooperative()">Copy BibTex</button>
 
 <script>
 function copyBibTexCooperative() {
