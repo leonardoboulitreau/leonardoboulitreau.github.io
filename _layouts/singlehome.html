@@ -53,7 +53,7 @@ layout: default
           {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
         </section>
         
-        <div style="max-width: 250px;">
+        <div style="max-width: 220px;">
           <p class="archive__subtitle" style="font-size: 0.7em">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</p>
   
           {% if paginator %}
@@ -71,7 +71,7 @@ layout: default
         </div>
       </div>
 
-      <footer class="page__meta">
+      <footer class="page__meta" style="font-size: 0.4em"=>
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
