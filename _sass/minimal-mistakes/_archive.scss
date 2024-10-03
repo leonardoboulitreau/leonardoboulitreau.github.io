@@ -71,7 +71,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 0.7em;
 
   & + p {
     text-indent: 0;
@@ -92,7 +92,7 @@
   }
 }
 
-.archive__item-caption {
+.archive__it-caption {
   position: absolute;
   bottom: 0;
   inset-inline-end: 0;
@@ -121,7 +121,7 @@
    List view
    ========================================================================== */
 
-.list__item {
+.list__it {
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
