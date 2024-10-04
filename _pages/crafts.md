@@ -32,7 +32,7 @@ feature_row:
     url: https://www.kaggle.com/code/leonardoboulitreau/w2v2-dataaug-timbrepertubation-training
     btn_label: "Notebook"
     btn_class: "btn--primary"
-  - image_path: assets/images/aitmospheric.png
+  - image_path: assets/images/bengali_head.png
     alt: "aitmospheric"
     title: "a i t m o s p h e r i c"
     excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Entry to the 1st Sound of AI Hackathon."
@@ -46,10 +46,10 @@ feature_row:
     url: https://github.com/AI-Unicamp/TTS
     btn_label: "Repository"
     btn_class: "btn--primary"
-  - image_path: assets/images/ASVspoof.png
+  - image_path: assets/images/bidclef-cover.png
     alt: "BirdCLEF 2024"
     title: "BirdCLEF 2024"
-    excerpt: "Entry to the BirdCLEF2024 challenge."
+    excerpt: "EffNet Ensemble. Entry to the BirdCLEF2024 challenge."
     url: https://github.com/leonardoboulitreau/AIMS-BirdCLEF
     btn_label: "Repository"
     btn_class: "btn--primary"
