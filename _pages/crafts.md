@@ -14,7 +14,7 @@ feature_row:
   - image_path: assets/images/ASVspoof.png
     alt: "HMAPS-Conformer"
     title: "HMAPS-Conformer"
-    excerpt: "Enhancing Speech Deepfake Detection with GEMAPS Acoustic Features. Entry to the ASVspoof5 challenge."
+    excerpt: "Enhancing SOTA Speech Deepfake Detection with GEMAPS Acoustic Features. Entry to the ASVspoof5 challenge."
     url: https://github.com/leonardoboulitreau/HMAPS-Conformer
     btn_label: "Repository"
     btn_class: "btn--primary"
@@ -25,12 +25,12 @@ feature_row:
     url: https://github.com/AI-Unicamp/TTS-Objective-Metrics
     btn_label: "Repository"
     btn_class: "btn--primary"
-  - image_path: assets/images/ASVspoof.png
-    alt: "Timbre Perturbation ASR"
-    title: "Timbre Perturbation ASR"
-    excerpt: "Entry to the Bengali.AI Kaggle Speech Recognition challenge."
+  - image_path: assets/images/bengaliaiasr.png
+    alt: "Timbre Perturbation for ASR"
+    title: "Timbre Perturbation for ASR"
+    excerpt: "Experimented with timbre perturbation as data augmentation for a Wav2Vec2. Entry to Kaggle's Bengali.AI ASR challenge."
     url: https://www.kaggle.com/code/leonardoboulitreau/w2v2-dataaug-timbrepertubation-training
-    btn_label: "Repository"
+    btn_label: "Notebook"
     btn_class: "btn--primary"
   - image_path: assets/images/aitmospheric.png
     alt: "aitmospheric"
@@ -42,7 +42,7 @@ feature_row:
   - image_path: /assets/images/csst.png
     alt: "Cross-Speaker Style Transfer"
     title: "Cross-Speaker Style Transfer"
-    excerpt: "A fork from Coqui-AI (🐸TTS) used to research about expressive TTS in our Unicamp-CPQD group."
+    excerpt: "A fork from Coqui-AI (🐸TTS) used to research about expressive TTS."
     url: https://github.com/AI-Unicamp/TTS
     btn_label: "Repository"
     btn_class: "btn--primary"
