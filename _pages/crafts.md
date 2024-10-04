@@ -25,14 +25,14 @@ feature_row:
     url: https://github.com/AI-Unicamp/TTS-Objective-Metrics
     btn_label: "Repository"
     btn_class: "btn--primary"
-  - image_path: assets/images/bengaliaiasr.png
+  - image_path: assets/images/bengali_head.png
     alt: "Timbre Perturbation for ASR"
     title: "Timbre Perturbation for ASR"
     excerpt: "Experimented with timbre perturbation as data augmentation for a Wav2Vec2. Entry to Kaggle's Bengali.AI ASR challenge."
     url: https://www.kaggle.com/code/leonardoboulitreau/w2v2-dataaug-timbrepertubation-training
     btn_label: "Notebook"
     btn_class: "btn--primary"
-  - image_path: assets/images/bengali_head.png
+  - image_path: assets/images/aitmospheric.png
     alt: "aitmospheric"
     title: "a i t m o s p h e r i c"
     excerpt: "Generating soundscapes with VQ‑VAEs for compositional use and inspiration. Entry to the 1st Sound of AI Hackathon."
@@ -46,7 +46,7 @@ feature_row:
     url: https://github.com/AI-Unicamp/TTS
     btn_label: "Repository"
     btn_class: "btn--primary"
-  - image_path: assets/images/bidclef-cover.png
+  - image_path: assets/images/birdclef-cover.png
     alt: "BirdCLEF 2024"
     title: "BirdCLEF 2024"
     excerpt: "EffNet Ensemble. Entry to the BirdCLEF2024 challenge."
