@@ -5,6 +5,27 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
+(2024) "[**Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching**](https://arxiv.org/pdf/2409.17364)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda, Mário Uliani Neto, Flávio O. Simões, Fernando O. Runstein, Bianca Dal Bó & Paula D. P. Costa. ArXiv. <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
+
+<script>
+function copyBibTexExploring2024() {
+  const bibtex = `@misc{marques2024improvingdataaugmentationbasedcrossspeaker,
+      title={Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching}, 
+      author={Leonardo B. de M. M. Marques and Lucas H. Ueda and Mário U. Neto and Flávio O. Simões and Fernando Runstein and Bianca Dal Bó and Paula D. P. Costa},
+      year={2024},
+      eprint={2410.05620},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2410.05620}, 
+  }`;
+  navigator.clipboard.writeText(bibtex).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Failed to copy text: ", err);
+  });
+}
+</script>
+
 (2024) "[**Exploring Synthetic Data for Cross-Speaker Style Transfer in Style Representation based TTS**](https://arxiv.org/pdf/2409.17364)". Lucas H. Ueda, **Leonardo B. de M. M. Marques**, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. SynData4GenAI. Interspeech 2024 Satellite. <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
 
 <script>
