@@ -8,7 +8,7 @@ classes: wide
 (2024) "[**Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching**](https://arxiv.org/pdf/2410.05620)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda, Mário Uliani Neto, Flávio O. Simões, Fernando O. Runstein, Bianca Dal Bó & Paula D. P. Costa. ArXiv. <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
 
 <script>
-function copyBibTexExploring2024() {
+function copyBibTexImproving2024() {
   const bibtex = `@misc{marques2024improvingdataaugmentationbasedcrossspeaker,
       title={Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching}, 
       author={Leonardo B. de M. M. Marques and Lucas H. Ueda and Mário U. Neto and Flávio O. Simões and Fernando Runstein and Bianca Dal Bó and Paula D. P. Costa},
