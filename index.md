@@ -41,7 +41,7 @@ My research interests are aimed at developing audio‑based human‑machine inte
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
     
 ## Education
-(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/) (#2 LATAM)
+(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/) (#3 Latin America)
 
 (2019-2020) Excellence Scolarship Exchange Student [@Télécom Paris](https://www.telecom-paris.fr/)
 
