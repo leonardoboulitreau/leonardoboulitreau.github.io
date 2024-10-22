@@ -26,7 +26,7 @@ function copyBibTexImproving2024() {
 }
 </script>
 
-(2024) "[**Exploring Synthetic Data for Cross-Speaker Style Transfer in Style Representation based TTS**](https://arxiv.org/pdf/2409.17364)". Lucas H. Ueda, **Leonardo B. de M. M. Marques**, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. SynData4GenAI. Interspeech 2024 Satellite. <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
+(2024) "[**Exploring Synthetic Data for Cross-Speaker Style Transfer in Style Representation based TTS**](https://www.isca-archive.org/syndata4genai_2024/ueda24_syndata4genai.pdf)". Lucas H. Ueda, **Leonardo B. de M. M. Marques**, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. SynData4GenAI. Interspeech 2024 Satellite. <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
 
 <script>
 function copyBibTexExploring2024() {
