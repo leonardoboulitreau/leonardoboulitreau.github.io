@@ -26,7 +26,8 @@ My research interests are aimed at developing audio‑based human‑machine inte
   * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
 
 ## Work Experience
-**(2023-Current) - Junior AI+Audio Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)**
+**(2023-Current) - Junior AI+Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)**
+  * Currently improving the company's ASR system for multi-accented speech.
   * Enriched the company’s call center customer profiling product by developing and productizing speech age and gender classifier models.
   * Improved the company’s emotion recognition system in production, in terms of speed and performance, by developing a 2‑step emotion recognition architecture (ECAPA‑TDNN + HuBERT Emotion Classifier).
     
