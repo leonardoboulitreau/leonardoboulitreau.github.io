@@ -26,10 +26,11 @@ My research interests are aimed at developing audio‑based human‑machine inte
   * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
 
 ## Work Experience
-**(2023-Current) - Junior AI+Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)**
-  * Currently improving the company's ASR system for multi-accented speech.
-  * Enriched the company’s call center customer profiling product by developing and productizing speech age and gender classifier models.
-  * Improved the company’s emotion recognition system in production, in terms of speed and performance, by developing a 2‑step emotion recognition architecture (ECAPA‑TDNN + HuBERT Emotion Classifier).
+**(2023-Current) - AI+Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)**
+  * Currently upgrading the company’s automatic speech recognition (ASR) system with external large language model fusion techniques and synthetic data.
+  • Evaluated fairness on multi‑accented speech recognition for the Brazilian Portuguese language.
+  • Improved the company’s emotion recognition system in production, in terms of speed and performance, by developing a 2‑step emotion recognition architecture (ECAPA‑TDNN + HuBERT Emotion Classifier)
+  • Enriched the company’s call center customer profiling product by developing and sending to production speech age and gender classifier models.
     
 **(2021-2023) - Fellow Master [@CPqD](https://www.linkedin.com/company/cpqd/)**
   * Developed neural customer‑oriented expressive speech synthesis models for the Brazilian Portuguese language.
@@ -42,7 +43,7 @@ My research interests are aimed at developing audio‑based human‑machine inte
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
     
 ## Education
-(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/) (#3 Latin America)
+(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/) (#2 Latin America)
 
 (2019-2020) Excellence Scolarship Exchange Student [@Télécom Paris](https://www.telecom-paris.fr/)
 
