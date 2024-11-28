@@ -5,6 +5,24 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
+(2024) "[**(Master Thesis) Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching**](https://acervus.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)". **Leonardo B. de M. M. Marques**. <button onclick="copyBibTexThesis()">Copy BibTex</button>
+
+<script>
+function copyBibTexThesis() {
+  const bibtex = `@masterthesis{marques2024cross,
+    title={Cross-speaker style transfer for TTS with singing voice conversion data augmentation, style filtering and F0 matching},
+    author={Marques, Leonardo Boulitreau de Menezes Martins},
+    year={2024},
+    school={Master thesis, Faculdade de Engenharia El{\'e}trica, Universidade Estadual de Campinas}
+  }`;
+  navigator.clipboard.writeText(bibtex).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Failed to copy text: ", err);
+  });
+}
+</script>
+
 (2024) "[**Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching**](https://arxiv.org/pdf/2410.05620)". **Leonardo B. de M. M. Marques**, Lucas H. Ueda, Mário Uliani Neto, Flávio O. Simões, Fernando O. Runstein, Bianca Dal Bó & Paula D. P. Costa. ArXiv. <button onclick="copyBibTexImproving2024()">Copy BibTex</button>
 
 <script>
