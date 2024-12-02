@@ -9,12 +9,10 @@ classes: wide
 
 <script>
 function copyBibTexThesis() {
-  const bibtex = `@masterthesis{marques2024cross,
-    title={Cross-speaker style transfer for TTS with singing voice conversion data augmentation, style filtering and F0 matching},
-    author={Marques, Leonardo Boulitreau de Menezes Martins},
-    year={2024},
-    school={Master thesis, Faculdade de Engenharia El{\'e}trica, Universidade Estadual de Campinas}
-  }`;
+  const bibtex = `@phdthesis{marques2024cross,
+  title={Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching},
+  author={Marques, Leonardo Boulitreau de Menezes Martins}
+}`;
   navigator.clipboard.writeText(bibtex).then(() => {
     alert("BibTeX copied to clipboard!");
   }).catch(err => {
