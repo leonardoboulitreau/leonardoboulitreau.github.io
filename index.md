@@ -27,7 +27,7 @@ My research interests are aimed at developing audio‑based human‑machine inte
 
 ## Work Experience
 **(2023-Current) - AI+Speech Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)**
-  * Currently upgrading the company’s automatic speech recognition (ASR) system with external large language model fusion techniques and synthetic data.
+  * Currently evaluating synthetic LLM textual data for ASR domain‑specific improvement.
   * Evaluated fairness on multi‑accented speech recognition for the Brazilian Portuguese language.
   * Improved the company’s emotion recognition system in production, in terms of speed and performance, by developing a 2‑step emotion recognition architecture (ECAPA‑TDNN + HuBERT Emotion Classifier)
   * Enriched the company’s call center customer profiling product by developing and sending to production speech age and gender classifier models.
