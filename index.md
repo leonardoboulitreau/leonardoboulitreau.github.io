@@ -6,16 +6,16 @@ author_profile: true
 ---
 ### I make machines that speak, sing, play, and hear.
 
-I am a researcher in the intersection of AI and Audio, with a solid background in signal processing. Currently, I'm working with automatic speech recognition and speech age classification [@CPqD](https://www.linkedin.com/company/cpqd/). I am also a hobbyist music producer, composer, and multi‑instrumentalist.
+I am a researcher in the intersection of audio and deep learning, with over 5 years of experience and a solid background in signal processing. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
-My research interests are aimed at developing audio‑based human‑machine interaction systems that are more affective and human‑empowering in topics such as: 
+My research interests are aimed at developing audio‑based systems that are more human‑empowering in topics such as: 
 
+* Singing Voice/Style Conversion (SVC)
+* Music Generation/Classification, Neural Audio Effects
 * Text-to-Speech (TTS), Text-to-Audio (TTA)
 * Automatic Speech Recognition (ASR), Speaker Diarization (SD)
-* Voice Conversion (VC), Singing Voice Conversion (SVC)
 * Speech Emotion, Age and Gender Recognition
-* Music Generation/Classification, Neural Audio Effects
 
 ## Skills
   * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
