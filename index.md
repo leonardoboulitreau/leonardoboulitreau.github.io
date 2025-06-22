@@ -1,7 +1,6 @@
 ---
 permalink: /
 layout: singlehome
-title: "I'm Leo!"
 author_profile: true
 ---
 ### I make machines that sing, speak, play, and hear.
