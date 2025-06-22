@@ -9,17 +9,18 @@ author_profile: true
 I am a researcher in the intersection of audio and deep learning, with over 5 years of experience and a solid background in signal processing. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
-My research interests are aimed at developing audio‑based systems that are more human‑empowering in topics such as: 
+My research interests are aimed at developing audio‑based systems that are more transparent and human‑empowering in topics such as: 
 
 * Singing Voice/Style Conversion (SVC)
-* Music Generation/Classification, Neural Audio Effects
-* Text-to-Speech (TTS), Text-to-Audio (TTA)
-* Automatic Speech Recognition (ASR), Speaker Diarization (SD)
+* Differentiable Digital Signal Processing
+* Neural Audio Effects
+* Music/Speech Synthesis
+* Automatic Speech Recognition (ASR)
 * Speech Emotion, Age and Gender Recognition
 
 ## Skills
   * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
-  * **Speech Frameworks**: Amphion, Coqui, SpeechBrain, ESPNET, NeMo, Kaldi
+  * **Frameworks**: Lightning, Amphion, Coqui, SpeechBrain, ESPNET, Kaldi
   * **Tools**: Docker, Git, Cloud (AWS, GCP)
   * **Programming**: Python, C, C++, MATLAB, LaTeX
   * **Languages**: Portuguese, English, French
