@@ -27,7 +27,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leonardoboulitreau/leonardoboulitreau.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/profile.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Leo's 💿" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Leonardo Boulitreau" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Leonardo Boulitreau"
   avatar           : "assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI Audio Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)"
+  bio              : "AI Audio Researcher [@Telecom Paris](http://telecom-paris.fr/en/school/rankings)"
   location         : "São Paulo, Brazil"
   email            : 
   links:
