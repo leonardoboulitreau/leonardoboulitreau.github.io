@@ -28,8 +28,8 @@ My research interests are aimed at developing audio‑based systems that are tra
 
 ## Work Experience
 
-<details open>
-  <summary>**(2025-Current) - Music Generation Intern [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**</summary>
+<details>
+  <summary>(2025-Current) - Music Generation Intern [@Télecom Paris](https://www.linkedin.com/company/cpqd/)</summary>
   * Conducting research and dataset processing on low-resource informed music generation in audio.
 </details>
 
