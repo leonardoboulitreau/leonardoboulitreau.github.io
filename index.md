@@ -17,9 +17,9 @@ My research interests are aimed at developing audio‑based systems that are tra
 
 ## Selected Works
 
-  * [Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://repositorio.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)
-  * [Exploring synthetic data for cross-speaker style transfer in style representation based TTS](https://www.isca-archive.org/syndata4genai_2024/ueda24_syndata4genai.pdf)
-  * [Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://dl.acm.org/doi/pdf/10.1145/3610661.3616554)
+  * [Master's Thesis: Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://repositorio.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)
+  * [SynData4GenAI: Exploring synthetic data for cross-speaker style transfer in style representation based TTS](https://www.isca-archive.org/syndata4genai_2024/ueda24_syndata4genai.pdf)
+  * [GENEA: Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://dl.acm.org/doi/pdf/10.1145/3610661.3616554)
 
 ## Experience
 
