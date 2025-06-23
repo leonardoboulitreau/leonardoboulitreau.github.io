@@ -203,13 +203,21 @@
   z-index: 20;
   cursor: pointer;
 
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
-
   .author__urls {
+    display: flex; // <-- makes <li> elements display side by side
+    gap: 10px; // optional spacing between items
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+    li {
+      display: inline-block; // optional, works with flex too
+
+      a {
+        margin-bottom: 0;
+      }
+    }
+
     span.label {
       padding-inline-start: 5px;
     }
