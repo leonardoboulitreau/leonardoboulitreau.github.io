@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### I make machines that sing, speak, play, and hear.
 
-I am a researcher in the intersection of audio and deep learning, with over 5 years of experience and a solid background in signal processing. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
+I am an researcher in the intersection of audio and deep learning currently working as an intert at Telecom Paris. I have over 5 years of experience and a solid background in signal processing. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
 My research interests are aimed at developing audio‑based systems that are more transparent and human‑empowering in topics such as: 
