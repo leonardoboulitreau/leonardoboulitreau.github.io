@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### I make machines that sing, speak, play, and hear.
 
-I am a researcher in the intersection of audio and deep learning currently working as a Music Generation intern at Telecom Paris. I have over 5 years of experience and a solid background in signal processing. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
+I am a researcher in the intersection of audio and deep learning currently working as a Music Generation intern at Telecom Paris. I have over 5 years of experience and a background in signal processing. I am also a hobbyist music producer, composer, programmer and guitarist.
 
 ## Interests
 My research interests are aimed at developing audio‑based systems that are transparent and human‑empowering in topics such as: 
@@ -28,11 +28,6 @@ My research interests are aimed at developing audio‑based systems that are tra
 
 ## Work Experience
 
-<details>
-  <summary>(2025-Current) - Music Generation Intern [@Télecom Paris](https://www.linkedin.com/company/cpqd/)</summary>
-  * Conducting research and dataset processing on low-resource informed music generation in audio.
-</details>
-
 **(2025-Current) - Internship [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**
   * Conducting research and dataset processing on low-resource informed music generation in audio.
 
@@ -53,7 +48,7 @@ My research interests are aimed at developing audio‑based systems that are tra
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
     
 ## Education
-(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/) (#2 Latin America)
+(2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)
 
 (2019-2020) Excellence Scolarship Exchange Student [@Télécom Paris](https://www.telecom-paris.fr/)
 
