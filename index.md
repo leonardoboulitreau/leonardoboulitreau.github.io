@@ -16,17 +16,13 @@ My research interests are aimed at developing audio‑based systems that are tra
 * Automatic Speech Recognition (ASR)
 * Speech Emotion, Age and Gender Recognition
 
-## Skills
-  * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
-  * **Frameworks**: Lightning, Amphion, Coqui, SpeechBrain, ESPNET, Kaldi
-  * **Tools**: Docker, Git, Cloud (AWS, GCP)
-  * **Programming**: Python, C, C++, MATLAB, LaTeX
-  * **Languages**: Portuguese, English, French
-  * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
+## Selected Works
 
+  * [Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://repositorio.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)
+  * [Exploring synthetic data for cross-speaker style transfer in style representation based TTS](https://www.isca-archive.org/syndata4genai_2024/ueda24_syndata4genai.pdf)
+  * [Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://dl.acm.org/doi/pdf/10.1145/3610661.3616554)
 
-
-## Work Experience
+## Experience
 
 **(2025-Current) - Internship [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**
   * Conducting research and dataset processing on low-resource informed music generation in audio.
@@ -46,6 +42,14 @@ My research interests are aimed at developing audio‑based systems that are tra
   * Enhanced lab automation by designing neural speech commands recognition systems.
   * Encapsulated the command recognition system in a local private LoRa network for IoT applications.
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
+
+ ## Skills
+  * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
+  * **Frameworks**: Lightning, Amphion, Coqui, SpeechBrain, ESPNET, Kaldi
+  * **Tools**: Docker, Git, Cloud (AWS, GCP)
+  * **Programming**: Python, C, C++, MATLAB, LaTeX
+  * **Languages**: Portuguese, English, French
+  * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
     
 ## Education
 (2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)
