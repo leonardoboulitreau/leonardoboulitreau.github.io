@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: l e o 
 layout: singlehome
 author_profile: true
 ---
