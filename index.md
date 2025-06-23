@@ -8,10 +8,9 @@ author_profile: true
 I am a researcher in the intersection of audio and deep learning currently working as a Music Generation intern at Telecom Paris. I have over 5 years of experience and a solid background in signal processing. I am also a hobbyist music producer, composer, and multi‑instrumentalist.
 
 ## Interests
-My research interests are aimed at developing audio‑based systems that are more transparent and human‑empowering in topics such as: 
-
-* Singing Voice/Style Conversion (SVC)
+My research interests are aimed at developing audio‑based systems that are transparent and human‑empowering in topics such as: 
 * Differentiable Digital Signal Processing
+* Singing Voice/Style Conversion
 * Neural Audio Effects
 * Music/Speech Synthesis
 * Automatic Speech Recognition (ASR)
@@ -25,7 +24,15 @@ My research interests are aimed at developing audio‑based systems that are mor
   * **Languages**: Portuguese, English, French
   * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
 
+
+
 ## Work Experience
+
+<details open>
+  <summary>**(2025-Current) - Music Generation Intern [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**</summary>
+  * Conducting research and dataset processing on low-resource informed music generation in audio.
+</details>
+
 **(2025-Current) - Internship [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**
   * Conducting research and dataset processing on low-resource informed music generation in audio.
 
