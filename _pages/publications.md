@@ -5,6 +5,24 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
+(2025) "[**Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model**](https://arxiv.org/abs/2505.20007)". L. Ueda, J. Lima, **L. Marques**, and P. Costa. The Interspeech 2025 Challenge on Speech Emotion Recognition in Naturalistic Conditions. <button onclick="copyBibTexImproving2025()">Copy BibTex</button>
+
+<script>
+function copyBibTexImproving2025() {
+  const bibtex = `@article{ueda2025improving,
+  title={Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model},
+  author={Ueda, Lucas and Lima, Jo{\~a}o and Marques, Leonardo and Costa, Paula},
+  journal={arXiv preprint arXiv:2505.20007},
+  year={2025}
+}`;
+  navigator.clipboard.writeText(bibtex).then(() => {
+    alert("BibTeX copied to clipboard!");
+  }).catch(err => {
+    console.error("Failed to copy text: ", err);
+  });
+}
+</script>
+
 (2024) "[**(Master Thesis) Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching**](https://acervus.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)". **Leonardo B. de M. M. Marques**. <button onclick="copyBibTexThesis()">Copy BibTex</button>
 
 <script>
