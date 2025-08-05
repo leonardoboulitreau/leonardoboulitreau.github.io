@@ -247,6 +247,30 @@
   }
 }
 
+.author__urls.social-icons {
+  display: flex;
+  flex-wrap: wrap;            // allows wrap on smaller screens, optional
+  gap: 10px;                  // controls space between items
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1em;
+}
+
+.author__urls.social-icons li {
+  display: flex;
+  align-items: center;
+}
+
+.author__urls.social-icons a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.author__urls.social-icons i {
+  font-size: 1.2em;           // tweak size as needed
+}
+
 .author__urls {
   display: none;
   position: absolute;
@@ -311,11 +335,6 @@
   ul {
     padding: 10px;
     list-style-type: none;
-    @include breakpoint($large) {
-      display: flex;
-      gap: 10px; // adjust spacing between icons
-      padding: 0; // optional
-    }
   }
 
   li {
