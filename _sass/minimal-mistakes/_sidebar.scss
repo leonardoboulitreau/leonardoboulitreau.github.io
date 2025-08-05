@@ -196,8 +196,11 @@
 }
 
 .author__urls-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 2px;
+  list-style: none;
   position: relative;
-  display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 20;
