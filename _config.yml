@@ -120,7 +120,7 @@ author:
   email            : 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa fa-envelope"
       url: "mailto:NameSurname@gmail.com"
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
