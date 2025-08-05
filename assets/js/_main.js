@@ -133,7 +133,7 @@ $(document).ready(function () {
         anchor.className = "header-link";
         anchor.href = "#" + id;
         anchor.innerHTML =
-          '<span class="sr-only">Permalink</span><i class="fas fa-link"></i>';
+          '<span class="sr-only"></span><i class="fas fa-link"></i>';
         anchor.title = "";
         element.appendChild(anchor);
       }
