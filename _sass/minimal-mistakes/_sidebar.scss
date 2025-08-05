@@ -243,8 +243,8 @@
 
 .author__urls {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  flex-wrap: nowrap;
+  gap: 2px;
   list-style: none;
   position: absolute;
   inset-inline-end: 0;
