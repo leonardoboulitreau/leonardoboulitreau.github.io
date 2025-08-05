@@ -4,7 +4,7 @@ title: "experience"
 layout: singlehome
 author_profile: true
 ---
-
+## Where I’ve Been
 **(2025-Current) - Intern [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**
   * High-quality and expressive music generation on audio informed with structure.
   * Dataset processing.
