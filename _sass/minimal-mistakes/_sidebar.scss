@@ -196,15 +196,18 @@
 }
 
 .author__urls-wrapper {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 2px;
-  list-style: none;
   position: relative;
+  display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 20;
   cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
 
   .author__urls {
     span.label {
@@ -245,14 +248,11 @@
 }
 
 .author__urls {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 2px;
-  list-style: none;
+  display: none;
   position: absolute;
   inset-inline-end: 0;
-  margin: 0px;
-  padding: 0px;
+  margin-top: 15px;
+  padding: 10px;
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
