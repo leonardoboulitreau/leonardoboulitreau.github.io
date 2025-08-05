@@ -134,7 +134,7 @@ $(document).ready(function () {
         anchor.href = "#" + id;
         anchor.innerHTML =
           '<span class="sr-only">Permalink</span><i class="fas fa-link"></i>';
-        anchor.title = "Permalink";
+        anchor.title = "";
         element.appendChild(anchor);
       }
     });
