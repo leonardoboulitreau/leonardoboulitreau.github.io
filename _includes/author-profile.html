@@ -34,7 +34,7 @@
         <li>
         {% for link in author.links %}
           {% if link.label and link.url %}
-            <a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: #B197FC;"></i></a>
+            <a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true" style="color: var(--text-color);"></i></a>
           {% endif %}
         {% endfor %}
         </li>
