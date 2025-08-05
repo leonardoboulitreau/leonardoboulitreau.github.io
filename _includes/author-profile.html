@@ -31,13 +31,14 @@
       -->
 
       {% if author.links %}
-        <li>
         {% for link in author.links %}
+          <li>
           {% if link.label and link.url %}
             <a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i></a>
           {% endif %}
+          </li>
         {% endfor %}
-        </li>
+        
       {% endif %}
 
       {% if author.uri %}
