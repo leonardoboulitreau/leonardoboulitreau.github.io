@@ -117,7 +117,7 @@ author:
   avatar           : "assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Audio Researcher [@Telecom Paris](http://telecom-paris.fr/en/school/rankings)"
   location         : "São Paulo, Brazil"
-  email            : 
+  email            : "NameSurname@gmail.com"
   links:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
