@@ -25,7 +25,7 @@ function copyBibTexImproving2025() {
 }
 </script> -->
 
-(2024) "[(Master Thesis) Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://acervus.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)". **Leonardo B. de M. M. Marques**. 
+(2024) "[Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://acervus.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)". Leonardo B. de M. M. Marques. **Master Thesis**. 
 
 <!-- <button onclick="copyBibTexThesis()">Copy BibTex</button>
 
@@ -66,7 +66,7 @@ function copyBibTexImproving2024() {
 }
 </script> -->
 
-(2024) "[Exploring Synthetic Data for Cross-Speaker Style Transfer in Style Representation based TTS](https://www.isca-archive.org/syndata4genai_2024/ueda24_syndata4genai.pdf)". *Lucas H. Ueda, Leonardo B. de M. M. Marques, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. **Interspeech 2024**. SynData4GenAI.*
+(2024) "[Exploring Synthetic Data for Cross-Speaker Style Transfer in Style Representation based TTS](https://www.isca-archive.org/syndata4genai_2024/ueda24_syndata4genai.pdf)". *Lucas H. Ueda, Leonardo B. de M. M. Marques, Flávio O. Simões, Mário Uliani Neto, Fernando O. Runstein, Edson J. Nagle, Bianca Dal Bó & Paula D. P. Costa. **Interspeech 2024. SynData4GenAI.***
 
 <!-- <button onclick="copyBibTexExploring2024()">Copy BibTex</button>
 
@@ -86,7 +86,7 @@ function copyBibTexExploring2024() {
 }
 </script> -->
 
-(2024) "[Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments](https://openreview.net/pdf?id=m6FDIP5o4M)". *Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, Leonardo Boulitreau de Menezes Martins Marques, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. **ICMI**. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop*
+(2024) "[Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments](https://openreview.net/pdf?id=m6FDIP5o4M)". *Johsac Isbac Gomez Sanchez, Kevin Inofuente-Colque, Leonardo Boulitreau de Menezes Martins Marques, Paula Dornhofer Paro Costa, Rodolfo Luis Tonoli. **ICMI. GENEA.***
 
 <!-- <button onclick="copyBibTexBenchmarking()">Copy BibTex</button>
 
@@ -114,7 +114,7 @@ url={https://openreview.net/forum?id=m6FDIP5o4M}
 }
 </script> -->
 
-(2024) "[Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness](https://openreview.net/pdf?id=Iso5lbByDI)". *Rodolfo Luis Tonoli, Paula Dornhofer Paro Costa, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda. **ICMI**. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop.*
+(2024) "[Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness](https://openreview.net/pdf?id=Iso5lbByDI)". *Rodolfo Luis Tonoli, Paula Dornhofer Paro Costa, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda. **ICMI. GENEA.***
 
 <!-- <button onclick="copyBibTexGesture()">Copy BibTex</button>
 
@@ -136,7 +136,7 @@ url={https://openreview.net/forum?id=Iso5lbByDI}
 }
 </script> -->
 
-(2023) "[Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://openreview.net/pdf?id=S9Efb3MoiZ)". *Rodolfo Luis Tonoli,Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda, Paula Dornhofer Paro Costa. **ICMI**. Genea Challenge 2023.*
+(2023) "[Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://openreview.net/pdf?id=S9Efb3MoiZ)". *Rodolfo Luis Tonoli, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda, Paula Dornhofer Paro Costa. **ICMI. Genea.***
 
 <!-- <button onclick="copyBibTexGesture2023()">Copy BibTex</button>
 
