@@ -9,14 +9,11 @@
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
-        {% if f.video_path %}
-          ```liquid
-          {% raw %}
-          {% include video id=f.video_path provider="youtube" %}
-          {% endraw %}
-          ```
+        {% if f.video_url %}
+          {% assign video_id = f.video_url | split: "v=" | last %}
+          {% include video id=video_id provider="youtube" %}
         {% endif %}
-
+        
         {% if f.image_path %}
           <div class="archive__item-teaser">
             <img src="{{ f.image_path | relative_url }}"

@@ -9,12 +9,10 @@ header:
   overlay_image: /assets/images/cover-sounds.png
 excerpt: "some sounds created.."
 feature_row:
-  - video_path: "-PVofD2A9t8"
-    alt: "HMAPS-Conformer"
-    title: "HMAPS-Conformer"
-    excerpt: "Enhancing SOTA Speech Deepfake Detection with GEMAPS Acoustic Features. Entry to the ASVspoof5 challenge."
-    url: https://github.com/leonardoboulitreau/HMAPS-Conformer
-    btn_label: "Repository"
+  - video_url: "https://www.youtube.com/watch?v=-PVofD2A9t8"
+    title: "YouTube Video Example"
+    excerpt: "An example YouTube video embedded in the feature row."
+    btn_label: "Watch Video"
     btn_class: "btn--primary"
 ---
 
