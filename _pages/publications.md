@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
-## Publications
+# Publications
 (2025) "[Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model](https://arxiv.org/abs/2505.20007)". *L. Ueda, J. Lima, L. Marques, and P. Costa. **Interspeech 2025**. The Interspeech 2025 Challenge on Speech Emotion Recognition in Naturalistic Conditions.* 
 
 <!-- <button onclick="copyBibTexImproving2025()">Copy BibTex</button>
