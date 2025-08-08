@@ -6,20 +6,18 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/cover-sounds.jpg
-excerpt: "some sounds created."
+  overlay_image: /assets/images/cover-sounds.png
+excerpt: "some sounds created.."
+feature_row:
+  - video_path: "-PVofD2A9t8"
+    alt: "HMAPS-Conformer"
+    title: "HMAPS-Conformer"
+    excerpt: "Enhancing SOTA Speech Deepfake Detection with GEMAPS Acoustic Features. Entry to the ASVspoof5 challenge."
+    url: https://github.com/leonardoboulitreau/HMAPS-Conformer
+    btn_label: "Repository"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-### YouTube
-
-To embed the following YouTube video at url `https://www.youtube.com/watch?v=-PVofD2A9t8` (long version) or `https://youtu.be/-PVofD2A9t8` (short version) into a post or page's main content you'd use: 
-
-```liquid
-{% raw %}{% include video id="-PVofD2A9t8" provider="youtube" %}{% endraw %}
-```
-
-{% include video id="-PVofD2A9t8" provider="youtube" %}
-
-To embed it as a video header you'd use the following YAML Front Matter
+{% include feature_row %}
