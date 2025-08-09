@@ -1,6 +1,6 @@
 ---
 title: "thoughts"
-layout: splash
+layout: archive
 permalink: /thoughts/
 header:
   overlay_color: "#000"
