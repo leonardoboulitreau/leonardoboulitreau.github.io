@@ -1,6 +1,6 @@
 ---
-layout: archive
 title: "thoughts"
+layout: splash
 permalink: /thoughts/
 header:
   overlay_color: "#000"
@@ -9,7 +9,7 @@ header:
 excerpt: "rambling on..."
 ---
 
-{% for post in site.posts limit: 5 %}
-  {% include archive-single.html %}
+{% for post in site.posts%}
+  {% include archive-single.html type=grid%}
 {% endfor %}
 
