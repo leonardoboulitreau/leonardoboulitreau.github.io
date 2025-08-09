@@ -14,10 +14,10 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if include.type == "grid" or teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="" style="width: 40%;">
+        <img src="{{ teaser | relative_url }}" alt="" style="width: 30%;">
       </div>
     {% endif %}
-    <h2 class="archive__item-title no_toc" itemprop="headline" style= "margin: 0.25em 0 0em; font-size: 0.6em;">
+    <h2 class="archive__item-title no_toc" itemprop="headline" style= "margin: 0.25em 0 0em; font-size: 0.5em;">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only"></span></a>
       {% else %}
