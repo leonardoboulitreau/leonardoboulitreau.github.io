@@ -7,6 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/cover-thoughts.jpg
 excerpt: "rambling on..."
+entries_layout: grid
 ---
 
 {% for post in site.posts%}
