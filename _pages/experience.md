@@ -4,7 +4,7 @@ title: "experience"
 layout: singlehome
 author_profile: true
 ---
-## Where I’ve Been
+## Where I’ve Contributed
 **(2025-Current) - Intern [@Télecom Paris](https://www.linkedin.com/company/cpqd/)**
   * High-quality and expressive music generation on audio informed with structure.
   * Dataset processing.
@@ -26,6 +26,7 @@ author_profile: true
   * Enabled long distance voice control by developing a wearable prototype with an embedded microphone.
 
 ## Skills
+  * **Audio**: Signal Processing, Speech, Singing Voice
   * **Deep Learning**: PyTorch, Tensorflow, Sci-Kit, HuggingFace, ONNX, Gradio
   * **Frameworks**: Lightning, Amphion, Coqui, SpeechBrain, ESPNET, Kaldi
   * **Tools**: Docker, Git, Cloud (AWS, GCP)
@@ -34,6 +35,8 @@ author_profile: true
   * **Competences**: Paper Implementation, Experiment Design, Team Collaboration
     
 ## Education
+(2025-Current) Ph.D in Informatics, Data and AI [@Institut Polytechnique de Paris](https://www.ip-paris.fr/en)
+
 (2021-2024) M.Sc. Computer Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)
 
 (2019-2020) Excellence Scolarship Exchange Student [@Télécom Paris](https://www.telecom-paris.fr/)
