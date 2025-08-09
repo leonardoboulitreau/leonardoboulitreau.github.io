@@ -26,7 +26,7 @@ function copyBibTexImproving2025() {
 }
 </script> -->
 
-(2024) "[Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://acervus.unicamp.br/Busca/Download?codigoArquivo=575266&tipoMidia=0)". Leonardo B. de M. M. Marques. **Master Thesis**. 
+(2024) "[Cross-Speaker Style Transfer for TTS with Singing Voice Conversion Data Augmentation, Style Filtering, and F0 Matching](https://repositorio.unicamp.br/Busca/Download?codigoArquivo=585009&tipoMidia=0)". Leonardo B. de M. M. Marques. **Master Thesis**. 
 
 <!-- <button onclick="copyBibTexThesis()">Copy BibTex</button>
 
