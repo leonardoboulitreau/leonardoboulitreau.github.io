@@ -49,7 +49,7 @@ layout: default
         </section>
         
         <div style="max-width: 200px;">
-          <p class="archive__subtitle" style="font-size: 0.7em">{{ site.data.ui-text[site.locale].recent_posts | default: "recent thoughts" }}</p>
+          <h2 class="archive__subtitle" style="font-size: 0.7em">{{ site.data.ui-text[site.locale].recent_posts | default: "recent thoughts" }}</h2>
   
           {% if paginator %}
             {% assign posts = paginator.posts %}
