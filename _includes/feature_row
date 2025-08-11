@@ -13,6 +13,12 @@
           {% assign video_id = f.video_url | split: "v=" | last %}
           {% include video id=video_id provider="youtube" %}
         {% endif %}
+
+        {% if f.playlist_url %}
+          {% assign playlist_id = f.playlist_url | split: "/" | last %}
+          {% assign playlist_id = playlist_id | split: "?" | first %}
+          {% include playlist id=playlist_id %}
+        {% endif %}
         
         {% if f.image_path %}
           <div class="archive__item-teaser">

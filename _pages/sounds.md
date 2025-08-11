@@ -11,6 +11,7 @@ excerpt: "sonic expressions, born from silence."
 feature_row:
   - video_url: "https://www.youtube.com/watch?v=GQ2rs_hTptU"
   - video_url: "https://www.youtube.com/watch?v=iYXi5_DK-bw"
+  - playlist_url: "https://open.spotify.com/playlist/14G0HMwMKk4HxJbzUYWXLG?si=e67f5085740a480a"
 ---
 
 {% include feature_row id="intro" type="center" %}
