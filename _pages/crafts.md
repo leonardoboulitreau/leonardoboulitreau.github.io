@@ -19,8 +19,8 @@ feature_row:
     btn_label: "Repository"
     btn_class: "btn--primary"
   - image_path: assets/images/birdclef-cover.png
-    alt: "(2024) Challenge - BirdCLEF"
-    title: "(2024) Challenge - BirdCLEF"
+    alt: "(2024) Challenge - Kaggle BirdCLEF"
+    title: "(2024) Challenge - Kaggle BirdCLEF"
     excerpt: "EffNet Ensemble. Entry to the BirdCLEF2024 challenge."
     url: https://github.com/leonardoboulitreau/AIMS-BirdCLEF
     btn_label: "Repository"
@@ -40,8 +40,8 @@ feature_row:
     btn_label: "Repository"
     btn_class: "btn--primary"
   - image_path: /assets/images/ttsobjective.png
-    alt: "(2022) Codebase - TTS objective metrics"
-    title: "(2022) Codebase - TTS objective metrics"
+    alt: "(2022) Codebase - TTS Objective Metrics"
+    title: "(2022) Codebase - TTS Objective Metrics"
     excerpt: "A compilation of the objective metrics used in several text-to-speech (TTS) papers."
     url: https://github.com/AI-Unicamp/TTS-Objective-Metrics
     btn_label: "Repository"
