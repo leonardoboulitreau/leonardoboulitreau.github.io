@@ -10,10 +10,10 @@ I am a researcher in the intersection of audio and deep learning currently worki
 ## Interests
 Developing audio‑based machines that are transparent and human‑empowering in topics such as: 
 * Differentiable Digital Signal Processing
-* Singing Voice/Style Conversion
+* Singing Voice
+* Sound Matching
+* Music/Speech Generation & Recognition
 * Neural Audio Effects
-* Music/Speech Synthesis
-* Automatic Speech Recognition (ASR)
 * Speech Emotion, Age and Gender Recognition
 
 ## Selected Works
