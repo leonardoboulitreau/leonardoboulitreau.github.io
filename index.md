@@ -5,16 +5,13 @@ layout: singlehome
 author_profile: true
 ---
 ## I make machines that sing, speak, play, and hear.
-I am a researcher in the intersection of audio and deep learning currently working as a Music Generation intern at Telecom Paris. I have five years of experience in the field and a background in signal processing. I am also a hobbyist music producer, composer, programmer and guitarist.
+I am a PhD in the intersection of audio and machine learning at the [Institute Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of prof. [Gaël Richard](https://www.telecom-paris.fr/gael-richard?l=en), with over five years of experience in the field and a background in signal processing. I am also a hobbyist music producer and guitarist.
 
 ## Interests
-Developing audio‑based machines that are transparent and human‑empowering in topics such as: 
-* Differentiable Digital Signal Processing
-* Singing Voice
-* Sound Matching
-* Music/Speech Generation & Recognition
-* Neural Audio Effects
-* Speech Emotion, Age and Gender Recognition
+Development of audio‑based machines that are transparent and human‑empowering in topics such as: 
+* Singing Voice & Speech
+* (Differentiable) Digital Signal Processing
+* Deep/Machine Learning
 
 ## Selected Works
   * Interspeech's SER Challenge (2025): [Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model](https://arxiv.org/abs/2505.20007)
