@@ -8,8 +8,6 @@ main:
     url: /publications/
   - title: "crafts"
     url: /crafts/
-  - title: "thoughts"
-    url: /thoughts/
   - title: "sounds"
     url: /sounds/
   - title: "cv"
