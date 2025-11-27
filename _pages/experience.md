@@ -8,7 +8,7 @@ author_profile: true
 **(2025-Current) - PhD [@Institut Polytechnique de Paris](https://www.ip-paris.fr/en)**
   * Singing Style Conversion and Control.
 
-**(2025-2025) - Intern [@Télecom Paris](https://www.telecom-paris.fr/en/home)**
+**(2025-2025) - Research Engineer [@Télecom Paris](https://www.telecom-paris.fr/en/home)**
   * Music generation with transformes informed by musical structure.
   * Audio909 dataset creation and processing.
 
