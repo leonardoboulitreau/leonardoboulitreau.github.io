@@ -6,10 +6,11 @@ author_profile: true
 ---
 ## Where I’ve Contributed
 **(2025-Current) - PhD [@Institut Polytechnique de Paris](https://www.ip-paris.fr/en)**
-  * Singing Style Conversion and Control.
+  * Interpretable Singing Style (Technique) Conversion and Control.
 
 **(2025-2025) - Research Engineer [@Télecom Paris](https://www.telecom-paris.fr/en/home)**
-  * Music generation with transformes informed by musical structure.
+  * Music generation with Transformers.
+  * Stochastic Positional Encoding with Musical Structure
   * Audio909 dataset creation and processing.
 
 **(2023-2025) - Researcher [@CPqD](https://www.linkedin.com/company/cpqd/)**
