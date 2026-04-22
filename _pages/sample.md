@@ -19,7 +19,16 @@ Walk through the key ideas, methods, or tools you used.
 
 ## results
 
-Summarize what you built or found. Add images, demos, or links here.
+<div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
+  <img src="/_papers/PitchSTAR/pictures/output.png" alt="output" style="max-width: 480px; width: 100%;">
+  <div>
+    <p>glissando strong reference</p>
+    <audio controls style="width: 280px;">
+      <source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 ## links
 
