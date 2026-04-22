@@ -3,7 +3,6 @@ title: "sample"
 layout: single
 permalink: /sample/
 date: 2026-04-23T00:00:00-03:00
-author_profile: true
 ---
 
 ## overview
