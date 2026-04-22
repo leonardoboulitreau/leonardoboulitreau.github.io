@@ -15,7 +15,7 @@ feature_row:
     alt: "sample"
     title: "sample"
     excerpt: "A sample page. Replace this entry with your project title and description."
-    url: /sample/
+    url: /pitchstar/
     btn_label: "View"
     btn_class: "btn--primary"
   - image_path: assets/images/ASVspoof.png
