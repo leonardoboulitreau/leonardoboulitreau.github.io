@@ -11,6 +11,13 @@ excerpt: "other projects i've built."
 intro: 
   - excerpt: '"Stop thinking about (art) works as objects and start thinking about them as triggers for experiences. What makes a work (of art) good for you is not something that s already inside it but something that happens inside you."\- Brian Eno'
 feature_row:
+  - image_path: assets/images/sample-cover.png
+    alt: "sample"
+    title: "sample"
+    excerpt: "A sample page. Replace this entry with your project title and description."
+    url: /sample/
+    btn_label: "View"
+    btn_class: "btn--primary"
   - image_path: assets/images/ASVspoof.png
     alt: "(2024) Challenge - ASVSpoof5"
     title: "(2024) Challenge - ASVSpoof5"
