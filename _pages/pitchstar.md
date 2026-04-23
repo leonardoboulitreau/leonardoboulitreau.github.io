@@ -22,6 +22,7 @@ This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer wi
     <tr>
       <th style="padding: 8px 12px; text-align: left;"></th>
       <th style="padding: 8px 12px; text-align: center;">Reference</th>
+      <th style="padding: 8px 12px; text-align: center;">Reference Spectrogram</th>
       <th style="padding: 8px 12px; text-align: left;">Condition</th>
       <th style="padding: 8px 12px; text-align: center;">Audio</th>
       <th style="padding: 8px 12px; text-align: center;">Spectrogram</th>
@@ -31,6 +32,7 @@ This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer wi
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 1</td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 320px; width: 100%;"></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -46,6 +48,7 @@ This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer wi
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 2</td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 320px; width: 100%;"></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -61,6 +64,7 @@ This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer wi
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 3</td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 320px; width: 100%;"></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -76,6 +80,7 @@ This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer wi
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 4</td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 320px; width: 100%;"></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
