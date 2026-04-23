@@ -136,40 +136,36 @@ div.essential_audio *:focus {
 
 /* 2. The Player Button */
 div.essential_audio > div:nth-child(1) div {
-	position: absolute;
-	top: 0px;
-	left: 0px;
+	position: relative !important;
+	top: unset !important;
+	left: unset !important;
+	transition: none !important;
 	cursor: pointer;
+	margin: 0 auto !important;
 }
 
 /* 2.a) Container for Player Button */
 div.essential_audio > div:nth-child(1) {
-	position: absolute;
+	position: relative !important;
 	z-index: 3;
-	height: 0px;
-	top: 0px;
-	left: calc(var(--button-protrusion) * -1);
-	width: calc(100% + (2 * var(--button-protrusion)));
+	height: auto !important;
+	top: unset !important;
+	left: unset !important;
+	width: 100%;
+	display: flex;
+	justify-content: center;
 }
 
 
 /* 3. The Track */
 div.essential_audio > div:nth-child(2) {
-	position: relative;
-	width: 100%;
-	overflow: hidden;
+	display: none !important;
 }
 
 
 /* 4. The Loading Progress Bar */
 div.essential_audio > div:nth-child(2) div {
-	position: absolute;
-	z-index: 1;
-	width: 0%;
-	height: 100%;
-	top: 0px;
-	left: 0px;
-	transition: width 0.5s;
+	display: none !important;
 }
 
 

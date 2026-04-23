@@ -5,12 +5,6 @@ permalink: /pitchstar/
 date: 2026-04-23T00:00:00-03:00
 ---
 <link rel="stylesheet" href="/_papers/PitchSTAR/css/essential_audio.css">
-<style>
-  div.essential_audio > div:nth-child(1) div {
-    left: 0px !important;
-    transition: none !important;
-  }
-</style>
 
 This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice”, currently under review. PitchSTAR is a self-supervised framework for arbitrary pitch style transfer based on flow matching, which operates on note-relative pitch modulation, allowing it to disentangle note tone from pitch techniques. PitchSTAR also uses an auto-regularization strategy of exploiting the noisy inputs inherent to flow matching training, to allow conditioning on the full reference through a blurred cross-attention, forcing the model to capture both global and local stylistic characteristics while avoiding trivial reference copying.
 
@@ -130,7 +124,7 @@ If you use our work in your research, please cite our paper:
 
 
 <div style="position: relative; margin: 16px 0;">
-  <pre id="bibtex" style="padding: 16px; overflow-x: auto; font-size: 0.85em;">@article{boulitreau2026pitchstar,
+  <pre id="bibtex" style="padding: 10px; overflow-x: auto; font-size: 0.7em;">@article{boulitreau2026pitchstar,
   title     = {PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice},
   author    = {Boulitreau, Leonardo and Richard, Gael},
   journal   = {arXiv preprint},
