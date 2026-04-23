@@ -6,13 +6,13 @@ date: 2026-04-23T00:00:00-03:00
 ---
 This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice”, currently under review. PitchSTAR is a self-supervised framework for arbitrary pitch style transfer based on flow matching, which operates on note-relative pitch modulation, allowing it to disentangle note tone from pitch techniques. PitchSTAR also uses an auto-regularization strategy of exploiting the noisy inputs inherent to flow matching training, to allow conditioning on the full reference through a blurred cross-attention, forcing the model to capture both global and local stylistic characteristics while avoiding trivial reference copying.
 
-<div style="text-align: center; margin: 24px 0;">
-  <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
-</div>
-
 <div style="display: flex; gap: 12px; margin: 24px 0;">
   <a href="#" class="btn btn--primary"><i class="fas fa-file-alt"></i> Paper</a>
   <a href="#" class="btn btn--primary"><i class="fab fa-github"></i> Code</a>
+</div>
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
 </div>
 
 ## Effect of CFG
