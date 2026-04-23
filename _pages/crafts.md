@@ -12,11 +12,11 @@ intro:
   - excerpt: '"Stop thinking about (art) works as objects and start thinking about them as triggers for experiences. What makes a work (of art) good for you is not something that s already inside it but something that happens inside you."\- Brian Eno'
 feature_row:
   - image_path: assets/images/sample-cover.png
-    alt: "sample"
-    title: "sample"
-    excerpt: "A sample page. Replace this entry with your project title and description."
+    alt: "(2026) Demo Page - PitchSTAR"
+    title: "(2026) Demo Page - PitchSTAR"
+    excerpt: "A Self-Supervised Flow Matching for Arbitrary Pitch Style Transfer."
     url: /pitchstar/
-    btn_label: "View"
+    btn_label: "Demo"
     btn_class: "btn--primary"
   - image_path: assets/images/ASVspoof.png
     alt: "(2024) Challenge - ASVSpoof5"
