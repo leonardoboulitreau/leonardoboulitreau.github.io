@@ -1,5 +1,5 @@
 ---
-title: "PitchSTAR"
+title: "PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice"
 layout: single
 permalink: /pitchstar/
 date: 2026-04-23T00:00:00-03:00
@@ -15,16 +15,13 @@ This is an accompanying page for the paper “PitchSTAR: Pitch Style Transfer wi
   <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
 </div>
 
-## Effect of CFG
-
-Describe what problem you were solving and why it mattered.
-
-## Sound Samples
+# Sound Samples
 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
       <th style="padding: 8px 12px; text-align: left;"></th>
+      <th style="padding: 8px 12px; text-align: center;">Reference</th>
       <th style="padding: 8px 12px; text-align: left;">Condition</th>
       <th style="padding: 8px 12px; text-align: center;">Audio</th>
       <th style="padding: 8px 12px; text-align: center;">Spectrogram</th>
@@ -33,6 +30,7 @@ Describe what problem you were solving and why it mattered.
   <tbody>
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 1</td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -47,6 +45,7 @@ Describe what problem you were solving and why it mattered.
     </tr>
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 2</td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -61,6 +60,7 @@ Describe what problem you were solving and why it mattered.
     </tr>
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 3</td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -75,6 +75,7 @@ Describe what problem you were solving and why it mattered.
     </tr>
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="3">Sample 4</td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="3"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px;">Condition A</td>
       <td style="padding: 8px 12px; text-align: center;"><audio controls style="width: 120px;"><source src="/_papers/PitchSTAR/audios/glissando_strong_ref.wav" type="audio/wav"></audio></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="3"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 320px; width: 100%;"></td>
@@ -90,6 +91,22 @@ Describe what problem you were solving and why it mattered.
   </tbody>
 </table>
 
-## links
+# Effect of CFG
 
-- [GitHub Repository](https://github.com/leonardoboulitreau)
+Describe what problem you were solving and why it mattered.
+
+# Citation
+
+If you use our work in your research, please cite our paper:
+
+
+<div style="position: relative; margin: 16px 0;">
+  <pre id="bibtex" style="padding: 16px; overflow-x: auto; font-size: 0.85em;">@article{boulitreau2026pitchstar,
+  title     = {PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice},
+  author    = {Boulitreau, Leonardo and Richard, Gael},
+  journal   = {arXiv preprint},
+  year      = {2026}
+}</pre>
+  <button onclick="navigator.clipboard.writeText(document.getElementById('bibtex').innerText).then(() => { this.innerText = 'Copied!'; setTimeout(() => this.innerText = 'Copy', 2000); })" style="position: absolute; top: 8px; right: 8px; padding: 4px 10px; font-size: 0.8em; cursor: pointer;">Copy</button>
+</div>
+
