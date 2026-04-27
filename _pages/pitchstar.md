@@ -27,10 +27,11 @@ Training scheme of PitchSTAR. Two optimization steps at low and high noise level
 
 We randomly select style references for each pitch style from the training set of the GTSinger, and randomly select content note sequences from the test set. 
 
+**Sample 1**
+
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="2">Sample 1</td>
       <td style="padding: 8px 12px; text-align: center;" colspan="2">
         <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
@@ -38,7 +39,7 @@ We randomly select style references for each pitch style from the training set o
       <td style="padding: 8px 12px; text-align: center;" colspan="2">
         <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+        <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 60%; width: 60%; margin-top: 4px;">
       </td>
     </tr>
     <tr>
@@ -70,10 +71,11 @@ We randomly select style references for each pitch style from the training set o
 
 Describe what problem you were solving and why it mattered.
 
+**Sample 1**
+
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="2">Sample 1</td>
       <td style="padding: 8px 12px; text-align: center;" colspan="2">
         <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
@@ -81,7 +83,7 @@ Describe what problem you were solving and why it mattered.
       <td style="padding: 8px 12px; text-align: center;" colspan="2">
         <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 60%; width: 60%; margin-top: 4px;">
       </td>
     </tr>
     <tr>
