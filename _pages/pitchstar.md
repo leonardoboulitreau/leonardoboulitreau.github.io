@@ -27,19 +27,23 @@ Training scheme of PitchSTAR. Two optimization steps at low and high noise level
 
 We randomly select style references for each pitch style from the training set of the GTSinger, and randomly select content note sequences from the test set. 
 
-**Sample 1**
+## Sample 1
 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; text-align: center;" colspan="2">
-        <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
-      </td>
-      <td style="padding: 8px 12px; text-align: center;" colspan="2">
-        <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 60%; width: 60%; margin-top: 4px;">
+      <td style="padding: 8px 12px;" colspan="4">
+        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
+          </div>
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+          </div>
+        </div>
       </td>
     </tr>
     <tr>
@@ -71,19 +75,23 @@ We randomly select style references for each pitch style from the training set o
 
 Describe what problem you were solving and why it mattered.
 
-**Sample 1**
+## Sample 1
 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; text-align: center;" colspan="2">
-        <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
-      </td>
-      <td style="padding: 8px 12px; text-align: center;" colspan="2">
-        <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 60%; width: 60%; margin-top: 4px;">
+      <td style="padding: 8px 12px;" colspan="4">
+        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+          </div>
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+          </div>
+        </div>
       </td>
     </tr>
     <tr>
