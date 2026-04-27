@@ -43,7 +43,7 @@ We randomly select style references for each pitch style from the training set o
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="5">Sample 1</td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="5"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="5"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="5"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 650px; width: 100%;"></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="5"><img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 650px; width: 100%;"></td>
       <td style="padding: 8px 12px;">Notes</td>
       <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="5"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
