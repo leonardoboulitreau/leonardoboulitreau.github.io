@@ -16,14 +16,17 @@ PitchSTAR is a self-supervised framework for arbitrary pitch style transfer base
 
 <div style="display: flex; gap: 12px; margin: 24px 0; justify-content: center;">
   <a href="#" class="btn btn--primary"><i class="fas fa-file-alt"></i> Paper</a>
-  <a href="#" class="btn btn--primary"><i class="fab fa-github"></i> Code</a>
+  <a href="#" class="btn btn--primary"><i class="fab fa-github"></i> Code (Upon Acceptance)</a>
 </div>
 
 <div style="text-align: center; margin: 24px 0;">
   <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
 </div>
+Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.
 
 # Sound Samples
+
+We randomly select style references for each pitch style from the training set of the GTSinger, and randomly select content note sequences from the test set. 
 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
@@ -31,36 +34,35 @@ PitchSTAR is a self-supervised framework for arbitrary pitch style transfer base
       <th style="padding: 8px 12px; text-align: left;"></th>
       <th style="padding: 8px 12px; text-align: center;">Source</th>
       <th style="padding: 8px 12px; text-align: center;" colspan="2">Reference</th>
-      <th style="padding: 8px 12px; text-align: left;">Condition</th>
-      <th style="padding: 8px 12px; text-align: center;">Audio</th>
-      <th style="padding: 8px 12px; text-align: center;">Spectrogram</th>
+      <th style="padding: 8px 12px; text-align: left;">Model</th>
+      <th style="padding: 8px 12px; text-align: center;" colspan="2">Transfer</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="5">Sample 1</td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="5"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="5"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="5"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\nomod\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div></td>
+      <td style="padding: 8px 12px; text-align: center;" rowspan="5"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\pitchstar\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="5"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 650px; width: 100%;"></td>
       <td style="padding: 8px 12px;">Notes</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\nomod\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div></td>
       <td style="padding: 8px 12px; text-align: center;" rowspan="5"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
     </tr>
     <tr>
-      <td style="padding: 8px 12px;">StylePitcher</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">StylePitcher w/ Mod</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
+      <td style="padding: 8px 12px;">PitchSTAR</td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\pitchstar\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
     </tr>
     <tr>
       <td style="padding: 8px 12px;">PitchSTAR w/o Flow</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\transnoise\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
     </tr>
     <tr>
-      <td style="padding: 8px 12px;">PitchSTAR</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
+      <td style="padding: 8px 12px;">StylePitcher w/ Mod</td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\detpitcher\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px;">StylePitcher</td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="_papers\PitchSTAR\audios\stylepitcher\English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
     </tr>
     <tr>
       <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="5">Sample 2</td>
@@ -150,9 +152,8 @@ Describe what problem you were solving and why it mattered.
       <th style="padding: 8px 12px; text-align: left;"></th>
       <th style="padding: 8px 12px; text-align: center;">Source</th>
       <th style="padding: 8px 12px; text-align: center;" colspan="2">Reference</th>
-      <th style="padding: 8px 12px; text-align: left;">Condition</th>
-      <th style="padding: 8px 12px; text-align: center;">Audio</th>
-      <th style="padding: 8px 12px; text-align: center;">Spectrogram</th>
+      <th style="padding: 8px 12px; text-align: left;">Model</th>
+      <th style="padding: 8px 12px; text-align: center;" colspan="2">Transfer</th>
     </tr>
   </thead>
   <tbody>
