@@ -34,34 +34,34 @@ We randomly select style references for each pitch style from the training set o
       <th style="padding: 8px 12px; text-align: left;"></th>
       <th style="padding: 8px 12px; text-align: center;">Source</th>
       <th style="padding: 8px 12px; text-align: center;" colspan="2">Reference</th>
-      <th style="padding: 8px 12px; text-align: left;">Model</th>
-      <th style="padding: 8px 12px; text-align: center;" colspan="2">Transfer</th>
+      <th style="padding: 8px 12px; text-align: center;">PitchSTAR</th>
+      <th style="padding: 8px 12px; text-align: center;">PitchSTAR w/o Flow</th>
+      <th style="padding: 8px 12px; text-align: center;">StylePitcher w/ Mod</th>
+      <th style="padding: 8px 12px; text-align: center;">StylePitcher</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="4">Sample 1</td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="4"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="4"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="4"><img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 650px; width: 100%;"></td>
-      <td style="padding: 8px 12px;">PitchSTAR</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">PitchSTAR w/o Flow</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">StylePitcher w/ Mod</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">StylePitcher</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
+      <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;">Sample 1</td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div></td>
+      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div></td>
+      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 100%; width: 100%;"></td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -76,34 +76,34 @@ Describe what problem you were solving and why it mattered.
       <th style="padding: 8px 12px; text-align: left;"></th>
       <th style="padding: 8px 12px; text-align: center;">Source</th>
       <th style="padding: 8px 12px; text-align: center;" colspan="2">Reference</th>
-      <th style="padding: 8px 12px; text-align: left;">Model</th>
-      <th style="padding: 8px 12px; text-align: center;" colspan="2">Transfer</th>
+      <th style="padding: 8px 12px; text-align: center;">StylePitcher</th>
+      <th style="padding: 8px 12px; text-align: center;">StylePitcher w/ Mod</th>
+      <th style="padding: 8px 12px; text-align: center;">PitchSTAR w/o Flow</th>
+      <th style="padding: 8px 12px; text-align: center;">PitchSTAR</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;" rowspan="4">Sample 1</td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="4"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="4"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;" rowspan="4"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 650px; width: 100%;"></td>
-      <td style="padding: 8px 12px;">StylePitcher</td>
+      <td style="padding: 8px 12px; font-weight: bold; white-space: nowrap;">Sample 1</td>
       <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">StylePitcher w/ Mod</td>
       <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">PitchSTAR w/o Flow</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px;">PitchSTAR</td>
-      <td style="padding: 8px 12px; text-align: center;"><div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div></td>
-      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 650px; width: 100%;"></td>
+      <td style="padding: 8px 12px; text-align: center;"><img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 100%; width: 100%;"></td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
     </tr>
   </tbody>
 </table>
