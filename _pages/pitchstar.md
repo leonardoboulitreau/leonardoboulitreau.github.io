@@ -34,7 +34,7 @@ PitchSTAR is based on flow matching, and operates on note-relative pitch modulat
 <div class="fig-caption">Figure 2. Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.</div>
 
 # Sound Samples
-For each model and ornament, we select one sample of the combination reference plus notes from the style consistency experiment that yielded the best correct confidence score of the pitch style classifiers. Below we show the output stylized curves with the corresponding reference and input notes. The audios were synthesized with Serenade.
+For each model and ornament, we select one sample of the combination reference plus notes from the style consistency experiment that yielded the best correct confidence score of the pitch style classifiers. Below we show the output stylized curves with the corresponding reference and input notes. The audios were synthesized with a Serenade model using each shown pitch curve as input conditioning.
 
 ## In-Domain 
 
@@ -129,8 +129,7 @@ For each model and ornament, we select one sample of the combination reference p
 </table>
 
 # Effect of CFG
-
-Describe what problem you were solving and why it mattered.
+In this section we show the effect of the guidance CFG scale, which balances guided by style and unguided generation.
 
 ### Sample 1
 
@@ -188,9 +187,16 @@ This confusion matrix is obtained on the test set of the GTSinger.
 </div>
 <div class="fig-caption">Figure 3. Confusion Matrix of the Pitch Style Classifier on the test set.</div>
 
-
 ## Pitch Style Transfer Models
 These are the matrices obtained applying on the transfer of each of the models.
+
+<div style="display: flex; justify-content: center; gap: 16px; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
+  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
+  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
+  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
+</div>
+<div class="fig-caption">Figure 3. Confusion Matrix of the Pitch Style Classifier on the test set.</div>
 
 # Synthetic Dataset Samples
 Four examples of the synthetic ornament dataset are shown. Two with ornament and two without ornament.
