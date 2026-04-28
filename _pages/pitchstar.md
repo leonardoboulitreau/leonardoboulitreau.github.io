@@ -14,7 +14,13 @@ date: 2026-04-23T00:00:00-03:00
 
 This is an accompanying page for the paper "PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice", currently under review. 
 
-PitchSTAR is a self-supervised framework for arbitrary pitch style transfer based on flow matching, which operates on note-relative pitch modulation, allowing it to disentangle note tone from pitch techniques. PitchSTAR also uses an auto-regularization strategy of exploiting the noisy inputs inherent to flow matching training, to allow conditioning on the full reference through a blurred cross-attention, forcing the model to capture both global and local stylistic characteristics while avoiding trivial reference copying.
+PitchSTAR is a self-supervised framework for arbitrary pitch style transfer (PST). The PST task is defined as generating a pitch curve given a reference ornamented pitch (style) and notes (content), represented in the Figure 1.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/pst.svg" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+</div>Figure 1. The (Pitch Style Transfer) PST task.
+
+PitchSTAR is based on flow matching, and operates on note-relative pitch modulation, allowing it to disentangle note tone from pitch ornaments. PitchSTAR also uses an auto-regularization strategy of exploiting the noisy inputs inherent to flow matching training, to allow conditioning on the full reference through a blurred cross-attention, forcing the model to capture both global and local stylistic characteristics while avoiding trivial reference copying. Its training is shown on Figure 2.
 
 <div style="display: flex; gap: 12px; margin: 24px 0; justify-content: center;">
   <a href="#" class="btn btn--primary"><i class="fas fa-file-alt"></i> Paper</a>
@@ -24,7 +30,7 @@ PitchSTAR is a self-supervised framework for arbitrary pitch style transfer base
 <div style="text-align: center; margin: 24px 0;">
   <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
 </div>
-Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.
+Figure 2. Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.
 
 # Sound Samples
 
