@@ -10,7 +10,7 @@ date: 2026-04-23T00:00:00-03:00
 <style>
   div.essential_audio { max-width: 40px; margin: 0 auto; }
   #main .page { width: 100%; float: none; }
-  .page__content p { font-size: 1.1em; }
+  .page__content p { font-size: 0.75em; }
   .fig-caption { font-size: 0.7em; color: #666; text-align: center; margin-top: 4px; }
 </style>
 <div style="display: flex; gap: 12px; margin: 24px 0; justify-content: center;">
