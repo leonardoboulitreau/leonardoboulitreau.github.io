@@ -39,6 +39,7 @@ We randomly select style references for each pitch style from the training set o
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
@@ -85,6 +86,7 @@ We randomly select style references for each pitch style from the training set o
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
@@ -133,6 +135,7 @@ Describe what problem you were solving and why it mattered.
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
@@ -172,6 +175,8 @@ Describe what problem you were solving and why it mattered.
 ## Test Data
 
 ## Pitch Style Transfer Models
+
+# Synthetic Dataset Samples
 
 # Citation
 
