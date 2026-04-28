@@ -1,6 +1,7 @@
 ---
 title: "PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice"
 layout: single
+classes: wide
 permalink: /pitchstar/
 date: 2026-04-23T00:00:00-03:00
 ---
