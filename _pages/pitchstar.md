@@ -191,10 +191,22 @@ This confusion matrix is obtained on the test set of the GTSinger.
 These are the matrices obtained applying on the transfer of each of the models.
 
 <div style="display: flex; justify-content: center; gap: 16px; margin: 24px 0;">
-  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
-  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
-  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
-  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 23%; width: 23%;">
+  <div style="text-align: center; width: 23%;">
+    <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
+    <img src="/_papers/PitchSTAR/pictures/classifier_cm_pitchstar.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+  </div>
+  <div style="text-align: center; width: 23%;">
+    <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+    <img src="/_papers/PitchSTAR/pictures/classifier_cm_transnoise.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+  </div>
+  <div style="text-align: center; width: 23%;">
+    <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
+    <img src="/_papers/PitchSTAR/pictures/classifier_cm_detpitcher.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+  </div>
+  <div style="text-align: center; width: 23%;">
+    <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
+    <img src="/_papers/PitchSTAR/pictures/classifier_cm_stylepitcher.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+  </div>
 </div>
 <div class="fig-caption">Figure 3. Confusion Matrix of the Pitch Style Classifier on the test set.</div>
 
