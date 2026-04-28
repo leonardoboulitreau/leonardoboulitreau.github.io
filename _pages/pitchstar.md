@@ -38,36 +38,36 @@ We randomly select style references for each pitch style from the training set o
         <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score"></div>
-            <img src="/_papers/PitchSTAR/pictures/1_notes.png" alt="source spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/1_notes.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref"></div>
-            <img src="/_papers/PitchSTAR/pictures/1_ref.png" alt="reference spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/1_ref.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
         </div>
       </td>
     </tr>
     <tr>
       <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato"></div>
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/1_pitchstar.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato"></div>
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/1_transnoise.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
         <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato"></div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/1_detpitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
         <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato"></div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/1_stylepitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
     </tr>
@@ -86,24 +86,24 @@ We randomly select style references for each pitch style from the training set o
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
-            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
-            <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+            <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
         </div>
       </td>
     </tr>
     <tr>
       <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR</div>
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
@@ -135,12 +135,12 @@ Describe what problem you were solving and why it mattered.
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
-            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
-            <img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+            <img src="/_papers/PitchSTAR/pictures/output.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
         </div>
       </td>
@@ -157,12 +157,12 @@ Describe what problem you were solving and why it mattered.
         <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR</div>
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
         <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
