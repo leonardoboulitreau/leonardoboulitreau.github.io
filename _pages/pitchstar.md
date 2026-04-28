@@ -29,13 +29,12 @@ PitchSTAR is based on flow matching, and operates on note-relative pitch modulat
 
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 50%;">
+  <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 75%;">
 </div>
 <div class="fig-caption">Figure 2. Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.</div>
 
 # Sound Samples
-
-We randomly select style references for each pitch style from the training set of the GTSinger, and randomly select content note sequences from the test set. 
+For each model and ornament, we select one sample of the combination reference plus notes from the style consistency experiment that yielded the best correct confidence score of the pitch style classifiers. Below we show the output stylized curves with the corresponding reference and input notes. The audios were synthesized with Serenade.
 
 ## In-Domain 
 
@@ -47,7 +46,7 @@ We randomly select style references for each pitch style from the training set o
       <td style="padding: 8px 12px;" colspan="4">
         <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
           <div style="text-align: center;">
-            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
+            <div style="font-weight: bold; margin-bottom: 6px;">Notes</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
             <img src="/_papers/PitchSTAR/pictures/1_notes.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
@@ -92,7 +91,7 @@ We randomly select style references for each pitch style from the training set o
       <td style="padding: 8px 12px;" colspan="4">
         <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
           <div style="text-align: center;">
-            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
+            <div style="font-weight: bold; margin-bottom: 6px;">Notes</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0004_score.wav"></div>
             <img src="/_papers/PitchSTAR/pictures/2_notes.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
@@ -141,7 +140,7 @@ Describe what problem you were solving and why it mattered.
       <td style="padding: 8px 12px;" colspan="4">
         <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
           <div style="text-align: center;">
-            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
+            <div style="font-weight: bold; margin-bottom: 6px;">Notes</div>
             <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/glissando_strong_ref.wav"></div>
             <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
