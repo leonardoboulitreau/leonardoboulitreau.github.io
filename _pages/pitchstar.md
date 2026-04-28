@@ -27,7 +27,55 @@ Training scheme of PitchSTAR. Two optimization steps at low and high noise level
 
 We randomly select style references for each pitch style from the training set of the GTSinger, and randomly select content note sequences from the test set. 
 
-## Sample 1
+## In-Domain 
+
+### Sample 1
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="padding: 8px 12px;" colspan="4">
+        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
+          </div>
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 220px; width: 100%; margin-top: 4px;">
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; color: #ff0000; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Out of Domain 
+
+### Sample 1
 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
@@ -75,7 +123,7 @@ We randomly select style references for each pitch style from the training set o
 
 Describe what problem you were solving and why it mattered.
 
-## Sample 1
+### Sample 1
 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
@@ -133,7 +181,7 @@ If you use our work in your research, please cite our paper:
 <div style="position: relative; margin: 16px 0;">
   <pre id="bibtex" style="padding: 6px 10px; overflow-x: auto; font-size: 0.55em;">@article{boulitreau2026pitchstar,
   title     = {PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice},
-  author    = {Boulitreau, Leonardo and Richard, Gael},
+  author    = {Anonymous},
   journal   = {arXiv preprint},
   year      = {2026}
 }</pre>
