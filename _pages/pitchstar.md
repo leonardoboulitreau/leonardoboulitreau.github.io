@@ -10,20 +10,20 @@ date: 2026-04-23T00:00:00-03:00
 <style>
   div.essential_audio { max-width: 40px; margin: 0 auto; }
   #main .page { width: 100%; float: none; }
+  .page__content p { font-size: 1.1em; }
+  .fig-caption { font-size: 0.7em; color: #666; text-align: center; margin-top: 4px; }
 </style>
-
-This is an accompanying page for the paper "PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice", currently under review. 
 <div style="display: flex; gap: 12px; margin: 24px 0; justify-content: center;">
   <a href="#" class="btn btn--primary"><i class="fas fa-file-alt"></i> Paper</a>
   <a href="#" class="btn btn--primary"><i class="fab fa-github"></i> Code (Upon Acceptance)</a>
 </div>
 
-PitchSTAR is a self-supervised framework for arbitrary pitch style transfer (PST). The PST task is defined as generating a pitch curve given a reference ornamented pitch (style) and notes (content), represented in the Figure 1.
+This is an accompanying page for the paper "PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice", currently under review. PitchSTAR is a self-supervised framework for arbitrary pitch style transfer (PST). The PST task is defined as generating a pitch curve given a reference ornamented pitch (style) and notes (content), represented in the Figure 1.
 
 <div style="text-align: center; margin: 24px 0;">
   <img src="/_papers/PitchSTAR/pictures/pst.svg" alt="PitchSTAR" style="max-width: 100%; width: 35%;">
 </div>
-<div style="text-align: center; font-size: 0.9em; margin-top: 4px;">Figure 1. The (Pitch Style Transfer) PST task.</div>
+<div class="fig-caption">Figure 1. The (Pitch Style Transfer) PST task.</div>
 
 PitchSTAR is based on flow matching, and operates on note-relative pitch modulation, allowing it to disentangle note tone from pitch ornaments. PitchSTAR also uses an auto-regularization strategy of exploiting the noisy inputs inherent to flow matching training, to allow conditioning on the full reference through a blurred cross-attention, forcing the model to capture both global and local stylistic characteristics while avoiding trivial reference copying. Its training is shown on Figure 2.
 
@@ -31,7 +31,7 @@ PitchSTAR is based on flow matching, and operates on note-relative pitch modulat
 <div style="text-align: center; margin: 24px 0;">
   <img src="/_papers/PitchSTAR/pictures/pitchstar.svg" alt="PitchSTAR" style="max-width: 100%; width: 50%;">
 </div>
-<div style="text-align: center; font-size: 0.9em; margin-top: 4px;">Figure 2. Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.</div>
+<div class="fig-caption">Figure 2. Training scheme of PitchSTAR. Two optimization steps at low and high noise levels are shown with highlighted sharp and blurred cross-attention matrices, respectively.</div>
 
 # Sound Samples
 
@@ -93,12 +93,12 @@ We randomly select style references for each pitch style from the training set o
         <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_score.wav"></div>
             <img src="/_papers/PitchSTAR/pictures/2_notes.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_Italian_IT-Bass-2_Glissando_Nina_Glissando_Group_0000_Label1.npy_ref.wav"></div>
             <img src="/_papers/PitchSTAR/pictures/2_ref.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
         </div>
