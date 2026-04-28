@@ -182,7 +182,13 @@ Describe what problem you were solving and why it mattered.
 In this section we plot the results of the trained Pitch Ornament Classifier, through its confusion matrices.
 
 ## Test Data
-This matrix is obtained on the test set of the GTSinger.
+This confusion matrix is obtained on the test set of the GTSinger.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/classifier_cm_test.png" alt="PitchSTAR" style="max-width: 100%; width: 35%;">
+</div>
+<div class="fig-caption">Figure 3. Confusion Matrix of the Pitch Style Classifier on the test set.</div>
+
 
 ## Pitch Style Transfer Models
 These are the matrices obtained applying on the transfer of each of the models.
@@ -198,10 +204,25 @@ Four examples of the synthetic ornament dataset are shown. Two with ornament and
 <div class="fig-caption">Figure 8. Synthetic notes and their corresponding ornamented pitch.</div>
 
 ### With Ornament 2
+<div style="display: flex; justify-content: center; gap: 24px; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/syn_2.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+  <img src="/_papers/PitchSTAR/pictures/syn_2_pitch.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+</div>
+<div class="fig-caption">Figure 9. Synthetic notes and their corresponding ornamented pitch.</div>
 
 ### Without Ornament 1
+<div style="display: flex; justify-content: center; gap: 24px; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/syn_nomod_1.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+  <img src="/_papers/PitchSTAR/pictures/syn_nomod_1_pitch.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+</div>
+<div class="fig-caption">Figure 10. Synthetic notes and their corresponding non-ornamented pitch.</div>
 
 ### Without Ornament 2
+<div style="display: flex; justify-content: center; gap: 24px; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/syn_nomod_2.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+  <img src="/_papers/PitchSTAR/pictures/syn_nomod_2_pitch.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+</div>
+<div class="fig-caption">Figure 11. Synthetic notes and their corresponding non-ornamented pitch.</div>
 
 # Citation
 
