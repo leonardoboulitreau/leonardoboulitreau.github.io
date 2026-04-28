@@ -10,8 +10,8 @@ date: 2026-04-23T00:00:00-03:00
 <style>
   div.essential_audio { max-width: 40px; margin: 0 auto; }
   #main .page { width: 100%; float: none; }
-  .page__content p { font-size: 0.75em; }
-  .fig-caption { font-size: 0.7em; color: #666; text-align: center; margin-top: 4px; margin-bottom: 2em; }
+  .page__content p { font-size: 0.7em; }
+  .fig-caption { font-size: 0.65em; color: #666; text-align: center; margin-top: 4px; margin-bottom: 2em; }
 </style>
 <div style="display: flex; gap: 12px; margin: 24px 0; justify-content: center;">
   <a href="#" class="btn btn--primary"><i class="fas fa-file-alt"></i> Paper</a>
@@ -192,20 +192,20 @@ These are the matrices obtained applying on the transfer of each of the models.
 
 <div style="display: flex; justify-content: center; gap: 16px; margin: 24px 0;">
   <div style="text-align: center; width: 23%;">
-    <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
-    <img src="/_papers/PitchSTAR/pictures/classifier_cm_pitchstar.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+    <div style="font-weight: bold; font-size: 0.8em; margin-bottom: 6px;">PitchSTAR</div>
+    <img src="/_papers/PitchSTAR/pictures/cm_pitchstar.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
   </div>
   <div style="text-align: center; width: 23%;">
-    <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
-    <img src="/_papers/PitchSTAR/pictures/classifier_cm_transnoise.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+    <div style="font-weight: bold; font-size: 0.8em; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+    <img src="/_papers/PitchSTAR/pictures/cm_transnoise.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
   </div>
   <div style="text-align: center; width: 23%;">
-    <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
-    <img src="/_papers/PitchSTAR/pictures/classifier_cm_detpitcher.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+    <div style="font-weight: bold; font-size: 0.8em; margin-bottom: 6px;">StylePitcher w/ Mod</div>
+    <img src="/_papers/PitchSTAR/pictures/cm_detpitcher.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
   </div>
   <div style="text-align: center; width: 23%;">
-    <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
-    <img src="/_papers/PitchSTAR/pictures/classifier_cm_stylepitcher.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
+    <div style="font-weight: bold; font-size: 0.8em; margin-bottom: 6px;">StylePitcher</div>
+    <img src="/_papers/PitchSTAR/pictures/cm_stylepitcher.png" alt="PitchSTAR" style="max-width: 100%; width: 100%;">
   </div>
 </div>
 <div class="fig-caption">Figure 3. Confusion Matrix of the Pitch Style Classifier on the test set.</div>
