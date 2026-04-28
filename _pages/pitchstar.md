@@ -128,6 +128,97 @@ For each model and ornament, we select one sample of the combination reference p
   </tbody>
 </table>
 
+### Sample 3
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="padding: 8px 12px;" colspan="4">
+        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Notes</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_score.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/3_notes.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
+          </div>
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/3_ref.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/3_pitchstar.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/3_transnoise.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/3_detpitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/3_stylepitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Sample 4
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="padding: 8px 12px;" colspan="4">
+        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Notes</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_score.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/4_notes.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
+          </div>
+          <div style="text-align: center;">
+            <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_Italian_IT-Bass-2_Glissando_Nina_Glissando_Group_0000_Label1.npy_ref.wav"></div>
+            <img src="/_papers/PitchSTAR/pictures/4_ref.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_Italian_IT-Bass-2_Glissando_Nina_Glissando_Group_0000_Label1.npy_tGlissando.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/4_pitchstar.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_Italian_IT-Bass-2_Glissando_Nina_Glissando_Group_0000_Label1.npy_tGlissando.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/4_transnoise.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_Italian_IT-Bass-2_Glissando_Nina_Glissando_Group_0000_Label1.npy_tGlissando.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/4_detpitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+      <td style="padding: 8px 12px; text-align: center;">
+        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Glissando_Young_And_Beautiful_Glissando_Group_0002_Italian_IT-Bass-2_Glissando_Nina_Glissando_Group_0000_Label1.npy_tGlissando.wav"></div>
+        <img src="/_papers/PitchSTAR/pictures/4_stylepitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # Effect of CFG
 In this section we show the effect of the guidance CFG scale, which balances guided by style and unguided generation.
 
