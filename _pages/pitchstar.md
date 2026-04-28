@@ -129,54 +129,6 @@ We randomly select style references for each pitch style from the training set o
   </tbody>
 </table>
 
-
-## Out of Domain 
-
-### Sample 1
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="padding: 8px 12px;" colspan="4">
-        <div style="display: flex; justify-content: center; align-items: flex-start; gap: 48px;">
-          <div style="text-align: center;">
-            <div style="font-weight: bold; margin-bottom: 6px;">Source</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/nomod/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_score.wav"></div>
-            <img src="/_papers/PitchSTAR/pictures/output.png" alt="source spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
-          </div>
-          <div style="text-align: center;">
-            <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
-            <img src="/_papers/PitchSTAR/pictures/ref_vibrato.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
-      </td>
-      <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
-      </td>
-      <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
-      </td>
-      <td style="padding: 8px 12px; text-align: center;">
-        <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Vibrato_Young_And_Beautiful_Vibrato_Group_0000_Korean_KO-Tenor-1_Vibrato_되풀이（Repeatedly）_Vibrato_Group_0003_Label0.npy_tVibrato.wav"></div>
-        <img src="/_papers/PitchSTAR/pictures/output.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 # Effect of CFG
 
 Describe what problem you were solving and why it mattered.
@@ -227,12 +179,29 @@ Describe what problem you were solving and why it mattered.
 </table>
 
 # Pitch Style Classifier 
+In this section we plot the results of the trained Pitch Ornament Classifier, through its confusion matrices.
 
 ## Test Data
+This matrix is obtained on the test set of the GTSinger.
 
 ## Pitch Style Transfer Models
+These are the matrices obtained applying on the transfer of each of the models.
 
 # Synthetic Dataset Samples
+Four examples of the synthetic ornament dataset are shown. Two with ornament and two without ornament.
+
+### With Ornament 1
+<div style="display: flex; justify-content: center; gap: 24px; margin: 24px 0;">
+  <img src="/_papers/PitchSTAR/pictures/syn_1.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+  <img src="/_papers/PitchSTAR/pictures/syn_1_pitch.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
+</div>
+<div class="fig-caption">Figure 8. Synthetic notes and their corresponding ornamented pitch.</div>
+
+### With Ornament 2
+
+### Without Ornament 1
+
+### Without Ornament 2
 
 # Citation
 
@@ -240,7 +209,7 @@ If you use our work in your research, please cite our paper:
 
 
 <div style="position: relative; margin: 16px 0;">
-  <pre id="bibtex" style="padding: 6px 10px; overflow-x: auto; font-size: 0.55em;">@article{boulitreau2026pitchstar,
+  <pre id="bibtex" style="padding: 6px 10px; overflow-x: auto; font-size: 0.55em;">@article{pitchstar,
   title     = {PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice},
   author    = {Anonymous},
   journal   = {arXiv preprint},
