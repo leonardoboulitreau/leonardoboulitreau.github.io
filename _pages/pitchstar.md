@@ -188,7 +188,7 @@ For each model and ornament, we select one sample of the combination reference p
           </div>
           <div style="text-align: center;">
             <div style="font-weight: bold; margin-bottom: 6px;">Reference</div>
-            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
+            <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES%2C_NOSE%2C_LIPS_Vibrato_Group_0003_Label0.npy_ref.wav"></div>
             <img src="/_papers/PitchSTAR/pictures/3_ref.png" alt="reference spectrogram" style="max-width: 340px; width: 100%; margin-top: 4px;">
           </div>
         </div>
@@ -197,22 +197,22 @@ For each model and ornament, we select one sample of the combination reference p
     <tr>
       <td style="padding: 8px 12px; text-align: center;">
         <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/pitchstar/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES%2C_NOSE%2C_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/3_pitchstar.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
         <div style="font-weight: bold; margin-bottom: 6px;">PitchSTAR w/o Flow</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/transnoise/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES%2C_NOSE%2C_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/3_transnoise.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
         <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher w/ Mod</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/detpitcher/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES%2C_NOSE%2C_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/3_detpitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
       <td style="padding: 8px 12px; text-align: center;">
         <div style="font-weight: bold; margin-bottom: 6px;">StylePitcher</div>
-        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES,_NOSE,_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
+        <div class="essential_audio" data-url="/_papers/PitchSTAR/audios/stylepitcher/English_EN-Alto-2_Pharyngeal_Young_And_Beautiful_Pharyngeal_Group_0004_Korean_KO-Tenor-1_Vibrato_EYES%2C_NOSE%2C_LIPS_Vibrato_Group_0003_Label0.npy_tPharyngeal.wav"></div>
         <img src="/_papers/PitchSTAR/pictures/3_stylepitcher.png" alt="spectrogram" style="max-width: 100%; width: 100%; margin-top: 4px;">
       </td>
     </tr>
