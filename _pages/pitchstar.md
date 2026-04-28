@@ -11,7 +11,7 @@ date: 2026-04-23T00:00:00-03:00
   div.essential_audio { max-width: 40px; margin: 0 auto; }
   #main .page { width: 100%; float: none; }
   .page__content p { font-size: 0.75em; }
-  .fig-caption { font-size: 0.7em; color: #666; text-align: center; margin-top: 4px; }
+  .fig-caption { font-size: 0.7em; color: #666; text-align: center; margin-top: 4px; margin-bottom: 2em; }
 </style>
 <div style="display: flex; gap: 12px; margin: 24px 0; justify-content: center;">
   <a href="#" class="btn btn--primary"><i class="fas fa-file-alt"></i> Paper</a>
@@ -223,20 +223,5 @@ Four examples of the synthetic ornament dataset are shown. Two with ornament and
   <img src="/_papers/PitchSTAR/pictures/syn_nomod_2_pitch.png" alt="PitchSTAR" style="max-width: 35%; width: 35%;">
 </div>
 <div class="fig-caption">Figure 11. Synthetic notes and their corresponding non-ornamented pitch.</div>
-
-# Citation
-
-If you use our work in your research, please cite our paper:
-
-
-<div style="position: relative; margin: 16px 0;">
-  <pre id="bibtex" style="padding: 6px 10px; overflow-x: auto; font-size: 0.55em;">@article{pitchstar,
-  title     = {PitchSTAR: Pitch Style Transfer with Auto-Regularized Flow Matching for Singing Voice},
-  author    = {Anonymous},
-  journal   = {arXiv preprint},
-  year      = {2026}
-}</pre>
-  <button onclick="navigator.clipboard.writeText(document.getElementById('bibtex').innerText).then(() => { this.innerText = 'Copied!'; setTimeout(() => this.innerText = 'Copy', 2000); })" style="position: absolute; top: 8px; right: 8px; padding: 4px 10px; font-size: 0.8em; cursor: pointer;">Copy</button>
-</div>
 
 <script src="/_papers/PitchSTAR/js/essential_audio.js"></script>
