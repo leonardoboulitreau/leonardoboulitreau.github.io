@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 ## Publications
-(2027) "PitchSTAR: Self-Supervised Pitch Style Transfer with Complementary Temporal and Time-Agnostic Style Representations". (Submitted to ICASSP 2027). [DEMO](https://leonardoboulitreau.github.io/pitchstar/).
+(2027) "PitchSTAR: Self-Supervised Pitch Style Transfer with Complementary Temporal and Time-Agnostic Style Representations". (Submitted to **ICASSP 2027**). [DEMO](https://leonardoboulitreau.github.io/pitchstar/).
 
-(2027) "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing". (Submitted to **ICASSP 2027**).
+(2027) "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing". (Submitted to **ICASSP 2027**).  [DEMO](https://musicflux.onrender.com).
 
 (2026) "Audio909: Structure-informed Music Generation with Tokenized Audio". (Submitted to **TISMIR**).
 
