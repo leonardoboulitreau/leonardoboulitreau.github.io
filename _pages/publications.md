@@ -6,8 +6,13 @@ author_profile: true
 classes: wide
 ---
 ## Publications
-(2025) "[Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model](https://arxiv.org/abs/2505.20007)". *L. Ueda, J. Lima, L. Marques, and P. Costa. **Interspeech 2025**. The Interspeech 2025 Challenge on Speech Emotion Recognition in Naturalistic Conditions.* 
+(2027) "PitchSTAR: Self-Supervised Pitch Style Transfer with Complementary Temporal and Time-Agnostic Style Representations". (Under Review) ***ICASSP 2027. [DEMO](https://leonardoboulitreau.github.io/pitchstar/)**.
 
+(2027) "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing". (Under Review) ***ICASSP 2027**.
+
+(2026) "Audio909: Structure-informed Music Generation with Tokenized Audio". (Under Review) ***TISMIR**.
+
+(2025) "[Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model](https://arxiv.org/abs/2505.20007)". *L. Ueda, J. Lima, L. Marques, and P. Costa. **Interspeech 2025**. The Interspeech 2025 Challenge on Speech Emotion Recognition in Naturalistic Conditions.* 
 <!-- <button onclick="copyBibTexImproving2025()">Copy BibTex</button>
 
 <script>
