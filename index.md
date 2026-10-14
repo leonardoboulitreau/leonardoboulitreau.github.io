@@ -5,7 +5,7 @@ layout: singlehome
 author_profile: true
 ---
 ## I make machines that sing, speak, play, and hear.
-I am a PhD researcher at the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of Dr. [Gaël Richard](https://www.telecom-paris.fr/gael-richard?l=en) in the intersection of audio and machine learning. I have over six years of R\&D experience and a strong background in signal processing. My research focuses on controllable and interpretable generative models, particularly on expressive (singing) voice transformation. I also produce music and play jazz/bossa-nova guitar as hobbies.
+I am a PhD researcher at the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of Dr. [Gaël Richard](https://www.telecom-paris.fr/gael-richard?l=en) in the intersection of audio and machine learning. I have over six years of R&D experience and a strong background in signal processing. My research focuses on controllable and interpretable generative models, particularly on expressive (singing) voice transformation. I also produce music and play jazz/bossa-nova guitar as hobbies.
 
 ## Interests
 Development of audio‑based machines that are transparent and human‑empowering in topics such as: 
