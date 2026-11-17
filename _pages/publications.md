@@ -8,7 +8,7 @@ classes: wide
 ## Publications
 (2027) "PitchSTAR: Self-Supervised Pitch Style Transfer with Complementary Temporal and Time-Agnostic Style Representations". (Submitted to **ICASSP 2027**). [Demo Page](https://pitchstar.netlify.app/).
 
-(2027) "MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing". (Submitted to **ICASSP 2027**).  [Demo Page](https://musicflux.onrender.com).
+(2027) "[MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing](https://arxiv.org/abs/2611.13834)". (Submitted to **ICASSP 2027**).  [Demo Page](https://musicflux.onrender.com).
 
 (2026) "Audio909: Structure-informed Music Generation with Tokenized Audio". (Submitted to **TISMIR**).
 
