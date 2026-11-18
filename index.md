@@ -15,6 +15,6 @@ Development of audio‑based machines that are transparent and human‑empowerin
 * Deep/Machine Learning
 
 ## Selected Works
-  * PitchSTAR: Self-Supervised Pitch Style Transfer with Complementary Temporal and Time-Agnostic Style Representations". (Submitted to **ICASSP 2027**). [Demo Page](https://pitchstar.netlify.app/).
-  *[MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing](https://arxiv.org/abs/2611.13834)". (Submitted to **ICASSP 2027**).  [Demo Page](https://musicflux.onrender.com).
-  * Interspeech's 2025 Speech Emotion Recognition Challenge (5th/93 teams): [Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model](https://arxiv.org/abs/2505.20007)
+  * "[PitchSTAR: Self-Supervised Pitch Style Transfer with Complementary Temporal and Time-Agnostic Style Representations](https://pitchstar.netlify.app/assets/pitchstar.pdf)". (Submitted to **ICASSP 2027**). [Demo Page](https://pitchstar.netlify.app/).
+  * "[MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing](https://arxiv.org/abs/2611.13834)". (Submitted to **ICASSP 2027**).  [Demo Page](https://musicflux.onrender.com).
+  * Interspeech's 2025 Speech Emotion Recognition Challenge (5th/93 teams): "[Improving Speech Emotion Recognition Through Cross Modal Attention Alignment and Balanced Stacking Model](https://arxiv.org/abs/2505.20007)".
